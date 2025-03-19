@@ -1,0 +1,1001 @@
+Customer ID,Gender,Age,Subscription Length (Months),Monthly Charges,Total Charges,Payment Method,Contract Type,Internet Service,Customer Support Calls,Churn
+CUST0001,Male,71,23,63.42,1458.66,Bank Transfer,Monthly,DSL,1,No
+CUST0002,Female,34,26,81.44,2117.44,Credit Card,Monthly,DSL,3,No
+CUST0003,Male,26,21,68.19,1431.99,Credit Card,Two-Year,DSL,9,No
+CUST0004,Male,50,22,25.73,566.06,PayPal,Monthly,No Internet,9,Yes
+CUST0005,Male,70,58,42.47,2463.26,PayPal,One-Year,Fiber Optic,8,No
+CUST0006,Female,37,7,91.53,640.71,Bank Transfer,Monthly,No Internet,7,No
+CUST0007,Male,30,14,79.3,1110.2,Bank Transfer,One-Year,Fiber Optic,2,No
+CUST0008,Male,45,15,60.1,901.5,Credit Card,One-Year,DSL,8,No
+CUST0009,Male,65,53,33.01,1749.53,PayPal,One-Year,No Internet,4,No
+CUST0010,Female,46,7,37.19,260.33,Bank Transfer,One-Year,DSL,2,No
+CUST0011,Male,30,9,75.88,682.92,Bank Transfer,One-Year,Fiber Optic,4,No
+CUST0012,Male,63,51,86.61,4417.11,Bank Transfer,Monthly,Fiber Optic,9,No
+CUST0013,Male,52,48,70.43,3380.64,Bank Transfer,One-Year,Fiber Optic,3,No
+CUST0014,Male,78,8,82.86,662.88,Bank Transfer,Monthly,DSL,7,Yes
+CUST0015,Female,23,50,79.0,3950.0,Bank Transfer,One-Year,Fiber Optic,4,No
+CUST0016,Male,35,59,23.47,1384.73,Credit Card,Two-Year,DSL,9,No
+CUST0017,Female,68,23,48.16,1107.68,PayPal,One-Year,No Internet,7,No
+CUST0018,Female,22,29,23.77,689.33,PayPal,Two-Year,Fiber Optic,8,Yes
+CUST0019,Female,64,18,31.17,561.06,Bank Transfer,One-Year,Fiber Optic,3,No
+CUST0020,Male,42,31,88.23,2735.13,PayPal,One-Year,Fiber Optic,6,No
+CUST0021,Female,19,30,52.56,1576.8,PayPal,One-Year,No Internet,1,Yes
+CUST0022,Male,27,52,58.18,3025.36,PayPal,Two-Year,Fiber Optic,5,No
+CUST0023,Female,73,39,26.06,1016.34,Bank Transfer,Two-Year,DSL,7,Yes
+CUST0024,Female,47,35,38.1,1333.5,Bank Transfer,One-Year,DSL,6,Yes
+CUST0025,Female,67,18,30.72,552.96,PayPal,Monthly,Fiber Optic,6,Yes
+CUST0026,Female,76,59,28.56,1685.04,PayPal,One-Year,Fiber Optic,7,Yes
+CUST0027,Female,62,42,67.42,2831.64,Bank Transfer,Two-Year,No Internet,6,No
+CUST0028,Female,22,39,33.12,1291.68,Credit Card,One-Year,No Internet,4,Yes
+CUST0029,Female,72,17,66.88,1136.96,PayPal,Two-Year,No Internet,6,Yes
+CUST0030,Female,73,14,15.26,213.64,Credit Card,Two-Year,Fiber Optic,9,Yes
+CUST0031,Male,50,31,22.76,705.56,PayPal,Two-Year,No Internet,2,Yes
+CUST0032,Male,71,24,34.71,833.04,Credit Card,One-Year,No Internet,4,Yes
+CUST0033,Female,18,35,63.73,2230.55,Credit Card,Two-Year,DSL,6,No
+CUST0034,Female,35,44,70.83,3116.52,Credit Card,Two-Year,No Internet,8,Yes
+CUST0035,Female,49,45,49.84,2242.8,Bank Transfer,One-Year,DSL,1,No
+CUST0036,Male,64,34,50.12,1704.08,Credit Card,Two-Year,DSL,3,No
+CUST0037,Female,66,3,75.21,225.63,Credit Card,One-Year,No Internet,6,Yes
+CUST0038,Male,28,37,11.42,422.54,Credit Card,Two-Year,DSL,0,No
+CUST0039,Male,38,43,40.7,1750.1,PayPal,Monthly,Fiber Optic,1,Yes
+CUST0040,Male,43,40,83.68,3347.2,Credit Card,Monthly,Fiber Optic,8,Yes
+CUST0041,Male,42,26,64.29,1671.54,PayPal,Two-Year,No Internet,9,Yes
+CUST0042,Male,39,55,40.35,2219.25,Credit Card,Monthly,Fiber Optic,6,No
+CUST0043,Female,76,23,91.5,2104.5,Credit Card,One-Year,DSL,9,No
+CUST0044,Female,44,44,79.54,3499.76,Bank Transfer,Monthly,Fiber Optic,6,No
+CUST0045,Female,66,39,33.84,1319.76,PayPal,Two-Year,No Internet,5,No
+CUST0046,Female,30,15,68.08,1021.2,Credit Card,Two-Year,No Internet,2,No
+CUST0047,Female,50,56,63.62,3562.72,PayPal,One-Year,DSL,9,Yes
+CUST0048,Male,51,49,46.11,2259.39,PayPal,Two-Year,No Internet,2,No
+CUST0049,Female,58,4,43.03,172.12,Bank Transfer,One-Year,Fiber Optic,1,Yes
+CUST0050,Female,52,29,40.92,1186.68,Bank Transfer,Monthly,No Internet,5,Yes
+CUST0051,Male,18,22,65.54,1441.88,Bank Transfer,Monthly,DSL,3,Yes
+CUST0052,Female,38,25,49.82,1245.5,Bank Transfer,One-Year,No Internet,4,Yes
+CUST0053,Male,65,13,84.87,1103.31,Bank Transfer,One-Year,Fiber Optic,2,No
+CUST0054,Female,72,18,70.26,1264.68,Bank Transfer,Two-Year,DSL,5,No
+CUST0055,Male,23,33,16.29,537.57,Bank Transfer,Monthly,Fiber Optic,2,Yes
+CUST0056,Female,45,16,67.62,1081.92,Bank Transfer,One-Year,DSL,7,No
+CUST0057,Female,34,45,34.4,1548.0,Credit Card,Monthly,No Internet,8,No
+CUST0058,Male,22,42,63.35,2660.7,PayPal,One-Year,DSL,3,No
+CUST0059,Male,48,44,71.21,3133.24,Bank Transfer,Monthly,DSL,8,Yes
+CUST0060,Male,22,2,30.77,61.54,Bank Transfer,Two-Year,No Internet,6,No
+CUST0061,Male,55,55,51.12,2811.6,PayPal,Monthly,Fiber Optic,2,No
+CUST0062,Male,20,35,27.13,949.55,Credit Card,Monthly,No Internet,6,No
+CUST0063,Male,70,42,14.71,617.82,PayPal,Monthly,DSL,0,No
+CUST0064,Male,40,34,44.06,1498.04,PayPal,Monthly,No Internet,2,Yes
+CUST0065,Male,54,30,42.66,1279.8,Bank Transfer,Monthly,DSL,5,Yes
+CUST0066,Female,70,59,99.59,5875.81,PayPal,Two-Year,No Internet,3,No
+CUST0067,Female,54,55,50.17,2759.35,PayPal,One-Year,No Internet,6,No
+CUST0068,Male,27,13,40.02,520.26,Bank Transfer,Monthly,Fiber Optic,2,Yes
+CUST0069,Female,27,13,62.24,809.12,Bank Transfer,Two-Year,DSL,0,No
+CUST0070,Female,36,18,17.99,323.82,Bank Transfer,Monthly,Fiber Optic,8,No
+CUST0071,Female,34,32,96.55,3089.6,Bank Transfer,Monthly,DSL,5,No
+CUST0072,Female,38,32,67.15,2148.8,PayPal,One-Year,No Internet,7,No
+CUST0073,Male,31,35,77.94,2727.9,PayPal,Monthly,DSL,2,No
+CUST0074,Female,26,59,25.34,1495.06,Credit Card,Two-Year,Fiber Optic,7,No
+CUST0075,Male,63,39,46.85,1827.15,Credit Card,Two-Year,Fiber Optic,1,No
+CUST0076,Female,18,46,48.04,2209.84,PayPal,One-Year,Fiber Optic,3,Yes
+CUST0077,Female,68,52,83.96,4365.92,Credit Card,Monthly,DSL,2,Yes
+CUST0078,Female,62,29,10.11,293.19,PayPal,Two-Year,Fiber Optic,9,Yes
+CUST0079,Male,30,49,37.08,1816.92,Credit Card,Monthly,Fiber Optic,0,Yes
+CUST0080,Female,21,29,98.31,2850.99,Bank Transfer,Monthly,Fiber Optic,6,Yes
+CUST0081,Male,79,53,52.74,2795.22,Credit Card,Monthly,No Internet,9,Yes
+CUST0082,Female,18,44,44.43,1954.92,Bank Transfer,One-Year,No Internet,1,No
+CUST0083,Male,66,57,20.78,1184.46,Bank Transfer,Monthly,DSL,3,Yes
+CUST0084,Female,57,16,97.67,1562.72,Bank Transfer,Two-Year,DSL,8,No
+CUST0085,Male,49,56,11.8,660.8,Bank Transfer,Monthly,Fiber Optic,5,Yes
+CUST0086,Male,51,44,76.35,3359.4,Credit Card,Two-Year,No Internet,7,No
+CUST0087,Female,45,47,79.17,3720.99,PayPal,Monthly,Fiber Optic,1,No
+CUST0088,Male,48,57,31.93,1820.01,Bank Transfer,Two-Year,Fiber Optic,6,Yes
+CUST0089,Female,25,10,70.44,704.4,Credit Card,Two-Year,No Internet,5,No
+CUST0090,Female,56,30,18.36,550.8,Bank Transfer,Monthly,No Internet,8,No
+CUST0091,Female,43,25,33.13,828.25,Credit Card,Monthly,No Internet,6,No
+CUST0092,Female,75,39,80.91,3155.49,Credit Card,Two-Year,DSL,0,No
+CUST0093,Female,51,20,87.82,1756.4,Credit Card,One-Year,DSL,7,No
+CUST0094,Female,71,5,64.76,323.8,PayPal,Monthly,Fiber Optic,9,No
+CUST0095,Female,71,1,55.62,55.62,Credit Card,One-Year,DSL,2,No
+CUST0096,Female,20,30,24.34,730.2,Credit Card,Monthly,No Internet,1,Yes
+CUST0097,Female,76,49,15.68,768.32,PayPal,Monthly,No Internet,2,No
+CUST0098,Female,67,3,20.59,61.77,PayPal,Monthly,DSL,5,No
+CUST0099,Female,29,45,30.46,1370.7,Credit Card,Monthly,Fiber Optic,2,No
+CUST0100,Male,18,14,40.75,570.5,PayPal,One-Year,Fiber Optic,9,Yes
+CUST0101,Male,71,56,44.28,2479.68,Bank Transfer,Monthly,DSL,4,No
+CUST0102,Female,61,30,41.17,1235.1,Bank Transfer,Two-Year,Fiber Optic,5,No
+CUST0103,Female,22,50,31.51,1575.5,PayPal,Two-Year,Fiber Optic,7,Yes
+CUST0104,Female,47,4,55.88,223.52,PayPal,One-Year,Fiber Optic,6,No
+CUST0105,Female,47,18,84.28,1517.04,Credit Card,Monthly,No Internet,7,No
+CUST0106,Female,76,37,35.17,1301.29,PayPal,Two-Year,No Internet,2,No
+CUST0107,Female,74,25,94.81,2370.25,Credit Card,One-Year,DSL,3,No
+CUST0108,Female,34,48,88.6,4252.8,Bank Transfer,Monthly,No Internet,5,No
+CUST0109,Female,65,1,24.56,24.56,PayPal,Two-Year,Fiber Optic,6,No
+CUST0110,Male,64,53,80.76,4280.28,Credit Card,Two-Year,No Internet,8,No
+CUST0111,Female,40,46,61.71,2838.66,Credit Card,One-Year,DSL,0,Yes
+CUST0112,Male,32,15,60.99,914.85,Bank Transfer,Monthly,No Internet,7,Yes
+CUST0113,Female,54,9,45.19,406.71,PayPal,Monthly,Fiber Optic,7,No
+CUST0114,Female,38,15,55.1,826.5,Bank Transfer,Two-Year,Fiber Optic,5,Yes
+CUST0115,Male,31,49,45.75,2241.75,Credit Card,Two-Year,DSL,3,Yes
+CUST0116,Female,19,57,58.58,3339.06,Credit Card,Two-Year,No Internet,2,No
+CUST0117,Male,28,24,66.52,1596.48,PayPal,Monthly,No Internet,2,Yes
+CUST0118,Female,68,4,70.69,282.76,Credit Card,One-Year,No Internet,5,No
+CUST0119,Female,56,12,57.92,695.04,PayPal,One-Year,Fiber Optic,7,Yes
+CUST0120,Male,55,59,74.93,4420.87,Bank Transfer,Monthly,DSL,6,No
+CUST0121,Female,77,58,22.72,1317.76,PayPal,One-Year,No Internet,0,No
+CUST0122,Male,51,37,29.08,1075.96,PayPal,Two-Year,Fiber Optic,5,Yes
+CUST0123,Female,55,37,83.69,3096.53,Credit Card,One-Year,Fiber Optic,6,No
+CUST0124,Male,67,43,39.03,1678.29,Credit Card,One-Year,Fiber Optic,6,Yes
+CUST0125,Male,51,6,12.06,72.36,PayPal,One-Year,No Internet,8,No
+CUST0126,Female,35,39,23.84,929.76,Credit Card,Two-Year,No Internet,9,No
+CUST0127,Female,47,56,30.13,1687.28,Credit Card,Monthly,No Internet,4,No
+CUST0128,Male,32,46,96.16,4423.36,Credit Card,Two-Year,No Internet,0,No
+CUST0129,Female,44,24,61.57,1477.68,PayPal,Monthly,No Internet,1,No
+CUST0130,Female,68,11,93.95,1033.45,Credit Card,Monthly,No Internet,3,No
+CUST0131,Female,51,13,61.76,802.88,PayPal,Monthly,No Internet,4,No
+CUST0132,Male,69,34,53.14,1806.76,Credit Card,One-Year,No Internet,8,Yes
+CUST0133,Male,74,25,38.24,956.0,Bank Transfer,One-Year,No Internet,0,No
+CUST0134,Male,55,7,64.57,451.99,Credit Card,Monthly,Fiber Optic,2,Yes
+CUST0135,Male,50,52,22.53,1171.56,Credit Card,Monthly,No Internet,4,No
+CUST0136,Male,41,4,90.84,363.36,PayPal,One-Year,DSL,2,Yes
+CUST0137,Male,32,59,84.64,4993.76,PayPal,Two-Year,Fiber Optic,3,No
+CUST0138,Male,77,8,38.58,308.64,Credit Card,Monthly,No Internet,2,Yes
+CUST0139,Male,47,20,95.75,1915.0,Bank Transfer,Two-Year,DSL,3,Yes
+CUST0140,Male,72,29,84.27,2443.83,Credit Card,One-Year,No Internet,0,No
+CUST0141,Female,59,54,69.97,3778.38,Credit Card,Monthly,DSL,7,No
+CUST0142,Male,68,53,20.96,1110.88,Bank Transfer,Two-Year,DSL,3,No
+CUST0143,Female,34,51,53.04,2705.04,PayPal,Two-Year,DSL,6,Yes
+CUST0144,Female,22,45,55.55,2499.75,Credit Card,Two-Year,DSL,1,Yes
+CUST0145,Female,46,46,30.93,1422.78,PayPal,One-Year,Fiber Optic,1,No
+CUST0146,Male,21,10,17.2,172.0,PayPal,One-Year,Fiber Optic,5,No
+CUST0147,Male,27,43,79.91,3436.13,Bank Transfer,Two-Year,DSL,1,Yes
+CUST0148,Male,73,34,20.98,713.32,Bank Transfer,Two-Year,No Internet,5,No
+CUST0149,Male,34,57,63.49,3618.93,PayPal,One-Year,DSL,1,No
+CUST0150,Female,27,26,94.28,2451.28,Credit Card,Two-Year,Fiber Optic,3,No
+CUST0151,Male,34,41,88.85,3642.85,PayPal,Two-Year,No Internet,6,No
+CUST0152,Male,77,49,35.0,1715.0,Credit Card,One-Year,Fiber Optic,7,No
+CUST0153,Male,37,58,86.63,5024.54,Credit Card,Two-Year,Fiber Optic,2,Yes
+CUST0154,Male,41,3,10.03,30.09,Bank Transfer,Two-Year,No Internet,8,Yes
+CUST0155,Male,22,56,11.59,649.04,Credit Card,Two-Year,DSL,1,No
+CUST0156,Female,51,6,64.23,385.38,Credit Card,One-Year,DSL,7,No
+CUST0157,Male,23,5,42.83,214.15,PayPal,Two-Year,DSL,7,No
+CUST0158,Female,70,5,44.78,223.9,Bank Transfer,One-Year,DSL,3,No
+CUST0159,Male,19,54,60.8,3283.2,Credit Card,One-Year,No Internet,0,No
+CUST0160,Female,30,47,27.26,1281.22,Credit Card,Monthly,No Internet,0,No
+CUST0161,Male,79,23,29.06,668.38,Bank Transfer,Monthly,No Internet,1,Yes
+CUST0162,Male,60,49,53.61,2626.89,PayPal,Two-Year,Fiber Optic,8,Yes
+CUST0163,Female,60,9,77.88,700.92,Bank Transfer,One-Year,No Internet,1,No
+CUST0164,Female,65,35,65.75,2301.25,Bank Transfer,Monthly,DSL,1,No
+CUST0165,Female,28,20,36.76,735.2,Credit Card,Two-Year,Fiber Optic,5,Yes
+CUST0166,Male,68,58,48.73,2826.34,Credit Card,Monthly,DSL,6,No
+CUST0167,Female,64,49,25.36,1242.64,PayPal,Monthly,DSL,6,No
+CUST0168,Male,74,59,16.72,986.48,Credit Card,One-Year,No Internet,8,No
+CUST0169,Male,40,42,80.44,3378.48,Credit Card,One-Year,No Internet,5,Yes
+CUST0170,Female,72,35,33.88,1185.8,Bank Transfer,Monthly,DSL,7,No
+CUST0171,Female,33,50,26.0,1300.0,Credit Card,Monthly,DSL,5,Yes
+CUST0172,Male,48,18,72.25,1300.5,PayPal,One-Year,Fiber Optic,1,No
+CUST0173,Male,28,17,65.62,1115.54,Bank Transfer,Two-Year,No Internet,0,Yes
+CUST0174,Female,71,24,66.99,1607.76,PayPal,One-Year,Fiber Optic,4,No
+CUST0175,Female,33,3,30.6,91.8,Bank Transfer,Monthly,Fiber Optic,8,Yes
+CUST0176,Female,25,32,30.94,990.08,Credit Card,Two-Year,Fiber Optic,7,No
+CUST0177,Male,21,35,29.87,1045.45,Bank Transfer,Monthly,DSL,3,No
+CUST0178,Male,57,38,25.64,974.32,Bank Transfer,Two-Year,Fiber Optic,4,Yes
+CUST0179,Male,21,13,69.02,897.26,Credit Card,Monthly,Fiber Optic,4,No
+CUST0180,Male,73,56,86.32,4833.92,Credit Card,Two-Year,DSL,5,Yes
+CUST0181,Male,42,47,75.19,3533.93,PayPal,Two-Year,No Internet,2,No
+CUST0182,Male,20,25,81.29,2032.25,PayPal,Monthly,No Internet,4,No
+CUST0183,Female,49,9,46.43,417.87,Credit Card,Two-Year,Fiber Optic,1,No
+CUST0184,Male,20,4,68.87,275.48,Credit Card,One-Year,DSL,9,No
+CUST0185,Male,44,14,41.88,586.32,Credit Card,Monthly,No Internet,0,No
+CUST0186,Male,46,37,57.3,2120.1,Bank Transfer,One-Year,Fiber Optic,0,No
+CUST0187,Female,49,34,53.35,1813.9,Bank Transfer,Monthly,Fiber Optic,9,Yes
+CUST0188,Male,67,11,25.92,285.12,Bank Transfer,Two-Year,DSL,6,No
+CUST0189,Male,78,41,44.84,1838.44,Credit Card,Two-Year,Fiber Optic,1,No
+CUST0190,Female,75,56,96.74,5417.44,PayPal,Two-Year,No Internet,3,Yes
+CUST0191,Male,68,3,32.37,97.11,Credit Card,Monthly,DSL,4,No
+CUST0192,Male,36,59,22.04,1300.36,Bank Transfer,One-Year,No Internet,6,Yes
+CUST0193,Male,38,28,47.67,1334.76,Bank Transfer,One-Year,No Internet,1,No
+CUST0194,Male,22,29,81.13,2352.77,Credit Card,Monthly,No Internet,5,Yes
+CUST0195,Male,35,9,62.39,561.51,Credit Card,Monthly,Fiber Optic,0,No
+CUST0196,Female,45,3,71.29,213.87,Bank Transfer,One-Year,Fiber Optic,6,No
+CUST0197,Female,59,25,27.07,676.75,Bank Transfer,One-Year,No Internet,8,Yes
+CUST0198,Female,78,34,65.71,2234.14,Bank Transfer,One-Year,No Internet,4,Yes
+CUST0199,Male,39,12,39.12,469.44,Credit Card,One-Year,DSL,4,No
+CUST0200,Male,38,42,85.09,3573.78,Bank Transfer,Monthly,DSL,3,No
+CUST0201,Male,23,9,66.64,599.76,Bank Transfer,Monthly,Fiber Optic,2,Yes
+CUST0202,Female,18,15,27.9,418.5,PayPal,Two-Year,Fiber Optic,8,Yes
+CUST0203,Male,22,40,15.82,632.8,Credit Card,One-Year,DSL,4,No
+CUST0204,Male,58,25,13.84,346.0,PayPal,Two-Year,No Internet,7,No
+CUST0205,Female,29,5,43.43,217.15,PayPal,Monthly,Fiber Optic,8,No
+CUST0206,Male,43,11,33.93,373.23,Bank Transfer,Monthly,No Internet,4,No
+CUST0207,Female,63,59,68.15,4020.85,Credit Card,Two-Year,DSL,9,Yes
+CUST0208,Female,51,34,54.94,1867.96,Bank Transfer,One-Year,Fiber Optic,8,No
+CUST0209,Female,66,24,33.94,814.56,Credit Card,One-Year,Fiber Optic,1,No
+CUST0210,Male,31,15,23.43,351.45,PayPal,One-Year,DSL,8,Yes
+CUST0211,Male,43,38,21.45,815.1,Credit Card,One-Year,Fiber Optic,3,No
+CUST0212,Male,62,8,87.82,702.56,Bank Transfer,Two-Year,DSL,5,No
+CUST0213,Male,44,59,31.91,1882.69,Bank Transfer,Two-Year,Fiber Optic,5,No
+CUST0214,Male,26,5,68.65,343.25,Bank Transfer,Monthly,DSL,5,No
+CUST0215,Male,43,48,82.96,3982.08,Credit Card,One-Year,Fiber Optic,1,Yes
+CUST0216,Male,74,26,65.27,1697.02,PayPal,One-Year,No Internet,6,No
+CUST0217,Female,64,18,87.36,1572.48,PayPal,One-Year,No Internet,5,No
+CUST0218,Male,74,6,45.32,271.92,Credit Card,Two-Year,No Internet,0,Yes
+CUST0219,Female,39,37,96.06,3554.22,Bank Transfer,One-Year,Fiber Optic,1,No
+CUST0220,Male,64,48,21.98,1055.04,PayPal,Two-Year,Fiber Optic,6,No
+CUST0221,Male,73,13,19.19,249.47,Bank Transfer,One-Year,No Internet,0,No
+CUST0222,Male,47,28,69.28,1939.84,Credit Card,One-Year,No Internet,0,No
+CUST0223,Female,60,5,94.85,474.25,Bank Transfer,Monthly,DSL,0,No
+CUST0224,Female,65,13,82.8,1076.4,PayPal,One-Year,DSL,7,No
+CUST0225,Female,78,17,16.88,286.96,PayPal,One-Year,DSL,3,No
+CUST0226,Female,34,50,35.14,1757.0,Bank Transfer,Monthly,No Internet,3,No
+CUST0227,Male,43,40,93.73,3749.2,Credit Card,Two-Year,No Internet,1,Yes
+CUST0228,Female,53,45,32.78,1475.1,Bank Transfer,Two-Year,No Internet,0,No
+CUST0229,Male,18,32,80.31,2569.92,Credit Card,One-Year,DSL,9,No
+CUST0230,Male,25,29,84.26,2443.54,Bank Transfer,Two-Year,Fiber Optic,8,No
+CUST0231,Female,66,51,54.59,2784.09,PayPal,One-Year,No Internet,6,No
+CUST0232,Female,52,58,44.77,2596.66,Credit Card,Monthly,Fiber Optic,3,No
+CUST0233,Female,78,3,50.51,151.53,Credit Card,Monthly,Fiber Optic,5,No
+CUST0234,Female,69,56,30.43,1704.08,Credit Card,One-Year,Fiber Optic,1,Yes
+CUST0235,Female,32,40,90.05,3602.0,PayPal,Monthly,DSL,6,Yes
+CUST0236,Female,64,34,50.56,1719.04,Bank Transfer,Monthly,Fiber Optic,1,No
+CUST0237,Female,73,40,89.42,3576.8,PayPal,One-Year,No Internet,9,No
+CUST0238,Female,39,27,19.51,526.77,Credit Card,One-Year,DSL,7,Yes
+CUST0239,Male,31,13,98.94,1286.22,Bank Transfer,Monthly,No Internet,7,Yes
+CUST0240,Female,43,45,49.89,2245.05,PayPal,Two-Year,No Internet,0,No
+CUST0241,Female,45,33,14.3,471.9,Credit Card,Two-Year,DSL,7,No
+CUST0242,Male,40,6,13.42,80.52,Credit Card,One-Year,No Internet,1,No
+CUST0243,Female,31,24,77.16,1851.84,PayPal,One-Year,No Internet,5,No
+CUST0244,Male,41,19,69.31,1316.89,PayPal,Two-Year,DSL,0,Yes
+CUST0245,Male,19,16,82.19,1315.04,PayPal,Monthly,No Internet,4,No
+CUST0246,Female,62,40,19.48,779.2,Credit Card,Two-Year,Fiber Optic,6,No
+CUST0247,Male,43,28,13.2,369.6,PayPal,Two-Year,No Internet,9,No
+CUST0248,Male,31,33,55.77,1840.41,Credit Card,Two-Year,Fiber Optic,0,Yes
+CUST0249,Male,76,59,44.88,2647.92,PayPal,Two-Year,No Internet,1,Yes
+CUST0250,Male,73,59,51.58,3043.22,Credit Card,One-Year,DSL,6,Yes
+CUST0251,Female,68,48,99.24,4763.52,Credit Card,One-Year,DSL,5,No
+CUST0252,Male,24,41,97.37,3992.17,Bank Transfer,Monthly,No Internet,2,No
+CUST0253,Female,20,13,94.81,1232.53,PayPal,Monthly,DSL,9,No
+CUST0254,Male,64,43,80.55,3463.65,PayPal,Monthly,No Internet,1,No
+CUST0255,Male,40,45,41.94,1887.3,Credit Card,Monthly,DSL,9,No
+CUST0256,Male,63,25,47.09,1177.25,Credit Card,Two-Year,Fiber Optic,3,No
+CUST0257,Male,60,53,59.47,3151.91,Credit Card,One-Year,No Internet,2,Yes
+CUST0258,Female,64,42,84.75,3559.5,Bank Transfer,One-Year,Fiber Optic,6,No
+CUST0259,Female,77,36,16.18,582.48,Bank Transfer,Monthly,Fiber Optic,7,No
+CUST0260,Male,62,27,48.19,1301.13,Credit Card,Monthly,No Internet,1,No
+CUST0261,Male,35,38,17.44,662.72,PayPal,Two-Year,Fiber Optic,9,No
+CUST0262,Female,75,7,56.32,394.24,PayPal,Two-Year,No Internet,6,No
+CUST0263,Male,55,5,90.9,454.5,Bank Transfer,Monthly,Fiber Optic,7,No
+CUST0264,Male,52,43,80.42,3458.06,Bank Transfer,One-Year,No Internet,5,No
+CUST0265,Male,68,45,30.51,1372.95,Credit Card,One-Year,No Internet,5,No
+CUST0266,Female,32,58,97.84,5674.72,PayPal,One-Year,DSL,9,No
+CUST0267,Female,42,57,70.06,3993.42,Credit Card,Monthly,No Internet,0,No
+CUST0268,Female,72,51,10.94,557.94,Bank Transfer,One-Year,No Internet,3,Yes
+CUST0269,Male,54,31,32.99,1022.69,PayPal,Two-Year,Fiber Optic,0,No
+CUST0270,Male,45,23,33.46,769.58,PayPal,Two-Year,No Internet,3,No
+CUST0271,Female,27,42,16.23,681.66,Bank Transfer,Monthly,DSL,1,Yes
+CUST0272,Female,56,10,96.38,963.8,Credit Card,Two-Year,Fiber Optic,4,Yes
+CUST0273,Female,74,32,53.04,1697.28,Credit Card,Monthly,Fiber Optic,9,Yes
+CUST0274,Female,34,43,90.62,3896.66,PayPal,One-Year,DSL,8,No
+CUST0275,Male,56,53,39.0,2067.0,Bank Transfer,One-Year,Fiber Optic,9,No
+CUST0276,Female,39,30,21.27,638.1,PayPal,One-Year,Fiber Optic,2,No
+CUST0277,Male,43,39,52.69,2054.91,Bank Transfer,Two-Year,Fiber Optic,7,No
+CUST0278,Female,79,31,20.26,628.06,Credit Card,Monthly,Fiber Optic,2,No
+CUST0279,Male,61,18,53.74,967.32,Bank Transfer,One-Year,DSL,5,No
+CUST0280,Female,42,36,92.83,3341.88,Credit Card,Monthly,DSL,3,No
+CUST0281,Female,34,2,56.87,113.74,Bank Transfer,One-Year,Fiber Optic,7,No
+CUST0282,Female,30,14,65.48,916.72,PayPal,Two-Year,Fiber Optic,5,Yes
+CUST0283,Female,37,13,24.1,313.3,Credit Card,Two-Year,DSL,7,No
+CUST0284,Male,42,29,13.94,404.26,PayPal,Monthly,DSL,0,No
+CUST0285,Female,21,12,19.97,239.64,PayPal,Two-Year,DSL,5,No
+CUST0286,Male,27,39,63.87,2490.93,Credit Card,Two-Year,Fiber Optic,0,No
+CUST0287,Male,20,2,18.55,37.1,Credit Card,Monthly,Fiber Optic,0,No
+CUST0288,Male,58,32,43.84,1402.88,PayPal,One-Year,No Internet,7,Yes
+CUST0289,Male,62,13,59.51,773.63,PayPal,Two-Year,DSL,6,No
+CUST0290,Female,35,46,44.98,2069.08,PayPal,Monthly,Fiber Optic,2,Yes
+CUST0291,Male,64,27,24.73,667.71,PayPal,Two-Year,DSL,5,No
+CUST0292,Male,53,49,34.64,1697.36,Credit Card,Two-Year,Fiber Optic,8,No
+CUST0293,Male,64,41,93.55,3835.55,Credit Card,Two-Year,DSL,6,No
+CUST0294,Female,39,17,70.84,1204.28,PayPal,Two-Year,Fiber Optic,2,No
+CUST0295,Female,51,40,54.64,2185.6,Bank Transfer,Monthly,No Internet,5,No
+CUST0296,Female,64,31,11.14,345.34,Bank Transfer,Monthly,No Internet,3,No
+CUST0297,Female,25,34,99.32,3376.88,Credit Card,Monthly,DSL,2,No
+CUST0298,Male,57,24,70.43,1690.32,PayPal,Two-Year,Fiber Optic,8,No
+CUST0299,Male,66,45,38.52,1733.4,PayPal,Two-Year,Fiber Optic,9,No
+CUST0300,Female,61,35,89.13,3119.55,Credit Card,Two-Year,DSL,1,No
+CUST0301,Male,36,48,33.26,1596.48,Bank Transfer,Monthly,Fiber Optic,0,Yes
+CUST0302,Male,59,6,58.96,353.76,Bank Transfer,Two-Year,DSL,1,No
+CUST0303,Male,58,19,67.25,1277.75,Bank Transfer,One-Year,Fiber Optic,6,No
+CUST0304,Female,54,30,29.9,897.0,Credit Card,Two-Year,DSL,9,No
+CUST0305,Female,23,7,98.06,686.42,Bank Transfer,One-Year,Fiber Optic,0,Yes
+CUST0306,Male,69,10,77.34,773.4,Credit Card,Two-Year,DSL,5,No
+CUST0307,Female,43,41,60.2,2468.2,Credit Card,Monthly,Fiber Optic,6,Yes
+CUST0308,Female,51,32,26.25,840.0,PayPal,Two-Year,No Internet,8,Yes
+CUST0309,Female,76,34,14.85,504.9,Bank Transfer,One-Year,Fiber Optic,7,No
+CUST0310,Female,73,28,38.81,1086.68,Credit Card,One-Year,DSL,5,No
+CUST0311,Female,76,15,77.79,1166.85,Bank Transfer,Two-Year,No Internet,2,Yes
+CUST0312,Male,62,30,34.24,1027.2,Bank Transfer,One-Year,Fiber Optic,7,No
+CUST0313,Female,23,37,58.56,2166.72,PayPal,One-Year,No Internet,6,No
+CUST0314,Male,54,29,75.52,2190.08,Bank Transfer,Monthly,Fiber Optic,2,No
+CUST0315,Male,74,22,19.71,433.62,PayPal,Two-Year,No Internet,8,Yes
+CUST0316,Female,50,4,71.68,286.72,Credit Card,Two-Year,DSL,1,No
+CUST0317,Male,70,20,18.27,365.4,Bank Transfer,Two-Year,Fiber Optic,2,No
+CUST0318,Male,39,32,96.86,3099.52,Credit Card,One-Year,Fiber Optic,1,No
+CUST0319,Male,38,36,53.96,1942.56,Bank Transfer,Two-Year,DSL,0,No
+CUST0320,Female,23,50,23.56,1178.0,Credit Card,Two-Year,No Internet,3,No
+CUST0321,Female,23,4,40.81,163.24,Bank Transfer,Monthly,DSL,4,Yes
+CUST0322,Male,72,27,47.21,1274.67,Bank Transfer,Monthly,DSL,5,No
+CUST0323,Female,65,17,78.24,1330.08,Bank Transfer,Monthly,No Internet,4,No
+CUST0324,Female,21,12,76.91,922.92,Bank Transfer,One-Year,DSL,0,No
+CUST0325,Female,47,22,65.07,1431.54,Bank Transfer,Two-Year,Fiber Optic,2,No
+CUST0326,Female,28,17,19.53,332.01,Bank Transfer,Monthly,Fiber Optic,0,Yes
+CUST0327,Male,79,10,23.64,236.4,Bank Transfer,Monthly,Fiber Optic,4,No
+CUST0328,Male,79,54,18.44,995.76,Bank Transfer,Monthly,DSL,4,No
+CUST0329,Female,47,1,61.95,61.95,Bank Transfer,Two-Year,Fiber Optic,5,No
+CUST0330,Female,48,22,88.94,1956.68,Credit Card,Two-Year,Fiber Optic,7,No
+CUST0331,Male,41,26,49.04,1275.04,PayPal,Two-Year,Fiber Optic,9,No
+CUST0332,Male,72,56,24.48,1370.88,Bank Transfer,One-Year,Fiber Optic,0,No
+CUST0333,Female,26,59,60.22,3552.98,PayPal,One-Year,Fiber Optic,3,Yes
+CUST0334,Male,72,18,83.06,1495.08,Bank Transfer,Monthly,Fiber Optic,9,No
+CUST0335,Female,20,50,76.75,3837.5,Bank Transfer,Two-Year,DSL,0,No
+CUST0336,Female,68,14,89.33,1250.62,Credit Card,Monthly,Fiber Optic,8,No
+CUST0337,Male,48,47,35.01,1645.47,Credit Card,Two-Year,Fiber Optic,6,No
+CUST0338,Male,57,29,27.46,796.34,PayPal,Two-Year,No Internet,6,No
+CUST0339,Female,54,12,89.18,1070.16,Credit Card,Two-Year,DSL,4,Yes
+CUST0340,Female,53,36,69.18,2490.48,Credit Card,One-Year,DSL,6,Yes
+CUST0341,Male,41,59,37.98,2240.82,PayPal,One-Year,DSL,1,No
+CUST0342,Female,48,35,76.81,2688.35,Credit Card,Two-Year,DSL,3,Yes
+CUST0343,Male,23,52,83.36,4334.72,Bank Transfer,Monthly,Fiber Optic,6,No
+CUST0344,Female,19,12,65.35,784.2,PayPal,Two-Year,Fiber Optic,2,Yes
+CUST0345,Male,37,7,71.91,503.37,PayPal,Two-Year,No Internet,1,No
+CUST0346,Male,45,29,43.77,1269.33,Bank Transfer,Monthly,No Internet,9,No
+CUST0347,Male,28,11,58.48,643.28,Credit Card,Two-Year,DSL,1,Yes
+CUST0348,Female,21,33,57.17,1886.61,PayPal,Monthly,No Internet,0,No
+CUST0349,Female,32,6,86.32,517.92,PayPal,One-Year,No Internet,4,Yes
+CUST0350,Male,23,47,85.6,4023.2,Bank Transfer,One-Year,DSL,5,No
+CUST0351,Female,71,15,84.94,1274.1,Bank Transfer,Monthly,DSL,5,Yes
+CUST0352,Male,66,32,10.99,351.68,Credit Card,One-Year,No Internet,8,No
+CUST0353,Male,47,51,77.46,3950.46,PayPal,One-Year,Fiber Optic,3,No
+CUST0354,Female,73,11,78.28,861.08,Credit Card,Monthly,No Internet,0,Yes
+CUST0355,Female,55,58,71.05,4120.9,Credit Card,One-Year,No Internet,5,Yes
+CUST0356,Male,68,23,78.06,1795.38,Bank Transfer,Two-Year,Fiber Optic,4,No
+CUST0357,Female,79,26,85.78,2230.28,PayPal,Two-Year,Fiber Optic,9,Yes
+CUST0358,Female,74,34,52.33,1779.22,PayPal,Monthly,DSL,5,No
+CUST0359,Male,19,46,55.18,2538.28,PayPal,One-Year,DSL,2,No
+CUST0360,Male,32,34,21.22,721.48,Bank Transfer,Two-Year,No Internet,1,No
+CUST0361,Female,28,29,44.68,1295.72,Bank Transfer,Two-Year,Fiber Optic,5,No
+CUST0362,Male,25,4,67.9,271.6,Bank Transfer,One-Year,DSL,0,No
+CUST0363,Male,43,17,80.24,1364.08,Bank Transfer,One-Year,No Internet,6,No
+CUST0364,Female,68,35,29.55,1034.25,Bank Transfer,Two-Year,Fiber Optic,6,No
+CUST0365,Male,62,13,22.4,291.2,PayPal,Two-Year,No Internet,9,Yes
+CUST0366,Male,61,41,69.67,2856.47,Credit Card,Monthly,DSL,6,Yes
+CUST0367,Female,22,39,10.17,396.63,PayPal,Monthly,DSL,9,No
+CUST0368,Female,23,15,26.05,390.75,Credit Card,Two-Year,Fiber Optic,0,No
+CUST0369,Male,43,55,12.62,694.1,Bank Transfer,Monthly,No Internet,3,Yes
+CUST0370,Male,71,29,25.02,725.58,Credit Card,Two-Year,Fiber Optic,6,No
+CUST0371,Female,21,29,26.32,763.28,PayPal,Two-Year,DSL,8,No
+CUST0372,Female,36,11,44.89,493.79,PayPal,Monthly,DSL,4,Yes
+CUST0373,Female,37,52,46.21,2402.92,Credit Card,Monthly,No Internet,1,No
+CUST0374,Female,50,32,88.68,2837.76,Bank Transfer,One-Year,No Internet,6,Yes
+CUST0375,Male,37,2,55.91,111.82,Bank Transfer,One-Year,No Internet,9,No
+CUST0376,Female,66,47,75.11,3530.17,PayPal,One-Year,Fiber Optic,0,Yes
+CUST0377,Female,29,14,19.37,271.18,Credit Card,Two-Year,No Internet,6,No
+CUST0378,Male,64,20,30.29,605.8,Bank Transfer,Monthly,No Internet,5,Yes
+CUST0379,Female,18,22,73.26,1611.72,Bank Transfer,Two-Year,DSL,6,No
+CUST0380,Male,43,11,14.75,162.25,PayPal,Monthly,DSL,9,No
+CUST0381,Female,31,27,53.79,1452.33,Bank Transfer,Two-Year,No Internet,2,Yes
+CUST0382,Female,55,3,63.94,191.82,Credit Card,One-Year,No Internet,2,No
+CUST0383,Female,54,17,64.19,1091.23,PayPal,One-Year,DSL,6,No
+CUST0384,Male,79,44,12.06,530.64,PayPal,One-Year,No Internet,1,Yes
+CUST0385,Male,28,56,38.99,2183.44,Credit Card,Two-Year,Fiber Optic,0,No
+CUST0386,Female,53,28,67.28,1883.84,PayPal,Monthly,Fiber Optic,8,No
+CUST0387,Male,30,29,23.41,678.89,Bank Transfer,Monthly,Fiber Optic,8,No
+CUST0388,Male,60,21,72.59,1524.39,Bank Transfer,One-Year,No Internet,6,No
+CUST0389,Male,20,47,77.13,3625.11,Credit Card,One-Year,DSL,6,No
+CUST0390,Male,50,16,98.38,1574.08,Bank Transfer,One-Year,No Internet,2,Yes
+CUST0391,Male,23,37,28.89,1068.93,Credit Card,One-Year,No Internet,9,No
+CUST0392,Male,67,59,84.26,4971.34,Credit Card,Monthly,DSL,1,No
+CUST0393,Female,73,20,56.83,1136.6,Bank Transfer,Two-Year,DSL,6,No
+CUST0394,Female,27,6,43.61,261.66,Credit Card,Two-Year,DSL,8,No
+CUST0395,Male,22,19,21.01,399.19,Bank Transfer,Two-Year,Fiber Optic,0,No
+CUST0396,Female,40,57,76.2,4343.4,PayPal,Two-Year,No Internet,3,Yes
+CUST0397,Female,27,5,31.23,156.15,PayPal,One-Year,DSL,5,Yes
+CUST0398,Female,61,3,43.43,130.29,Credit Card,One-Year,No Internet,6,Yes
+CUST0399,Female,19,59,15.63,922.17,Bank Transfer,One-Year,Fiber Optic,9,Yes
+CUST0400,Male,30,1,82.12,82.12,Bank Transfer,Two-Year,Fiber Optic,6,No
+CUST0401,Female,57,58,78.99,4581.42,PayPal,One-Year,DSL,9,Yes
+CUST0402,Female,19,38,76.03,2889.14,PayPal,One-Year,DSL,1,Yes
+CUST0403,Male,37,15,36.95,554.25,Bank Transfer,Monthly,No Internet,3,Yes
+CUST0404,Male,18,34,25.61,870.74,Credit Card,Monthly,DSL,4,Yes
+CUST0405,Female,54,35,67.38,2358.3,PayPal,One-Year,No Internet,0,Yes
+CUST0406,Female,26,49,54.65,2677.85,Credit Card,Monthly,DSL,0,Yes
+CUST0407,Female,34,25,26.04,651.0,Credit Card,Monthly,No Internet,9,No
+CUST0408,Female,26,24,71.73,1721.52,PayPal,One-Year,No Internet,2,No
+CUST0409,Female,28,12,99.2,1190.4,Credit Card,One-Year,No Internet,9,Yes
+CUST0410,Female,32,18,77.25,1390.5,Credit Card,One-Year,No Internet,2,No
+CUST0411,Male,41,15,76.6,1149.0,Bank Transfer,One-Year,Fiber Optic,7,No
+CUST0412,Female,55,44,95.53,4203.32,Credit Card,Two-Year,No Internet,8,Yes
+CUST0413,Female,72,16,28.26,452.16,Bank Transfer,Two-Year,DSL,0,Yes
+CUST0414,Male,52,27,60.9,1644.3,PayPal,One-Year,Fiber Optic,1,No
+CUST0415,Male,47,8,98.17,785.36,PayPal,Monthly,Fiber Optic,9,No
+CUST0416,Male,48,46,24.88,1144.48,Bank Transfer,One-Year,No Internet,1,Yes
+CUST0417,Male,66,25,73.02,1825.5,PayPal,One-Year,Fiber Optic,3,Yes
+CUST0418,Female,22,17,62.72,1066.24,Credit Card,Monthly,No Internet,1,No
+CUST0419,Female,79,29,62.78,1820.62,Credit Card,Two-Year,DSL,6,Yes
+CUST0420,Female,77,53,72.79,3857.87,Credit Card,One-Year,No Internet,8,Yes
+CUST0421,Female,61,8,93.67,749.36,PayPal,One-Year,Fiber Optic,6,No
+CUST0422,Female,67,15,80.43,1206.45,Credit Card,Two-Year,DSL,5,No
+CUST0423,Female,31,27,15.05,406.35,PayPal,Two-Year,No Internet,9,No
+CUST0424,Male,70,46,86.75,3990.5,Credit Card,Monthly,DSL,0,No
+CUST0425,Female,73,50,30.3,1515.0,Bank Transfer,Two-Year,DSL,9,Yes
+CUST0426,Male,28,52,43.92,2283.84,PayPal,Two-Year,Fiber Optic,8,Yes
+CUST0427,Male,26,7,51.56,360.92,PayPal,Two-Year,DSL,4,No
+CUST0428,Female,51,3,53.28,159.84,Credit Card,Monthly,Fiber Optic,4,Yes
+CUST0429,Male,29,29,49.17,1425.93,PayPal,Two-Year,DSL,5,No
+CUST0430,Female,52,44,94.36,4151.84,PayPal,Two-Year,No Internet,8,No
+CUST0431,Male,52,53,73.54,3897.62,Bank Transfer,Monthly,DSL,7,No
+CUST0432,Female,18,24,66.81,1603.44,Bank Transfer,Two-Year,No Internet,7,Yes
+CUST0433,Male,57,58,14.49,840.42,Credit Card,Two-Year,No Internet,7,No
+CUST0434,Female,39,3,91.35,274.05,Bank Transfer,Monthly,DSL,0,No
+CUST0435,Female,77,20,91.85,1837.0,Credit Card,One-Year,No Internet,0,No
+CUST0436,Female,46,46,80.22,3690.12,Credit Card,Monthly,DSL,7,Yes
+CUST0437,Female,25,15,10.63,159.45,Credit Card,Two-Year,DSL,4,Yes
+CUST0438,Female,28,25,15.16,379.0,PayPal,Two-Year,No Internet,8,Yes
+CUST0439,Male,58,30,30.27,908.1,Bank Transfer,Two-Year,No Internet,1,No
+CUST0440,Male,54,14,21.82,305.48,Credit Card,Monthly,Fiber Optic,8,No
+CUST0441,Male,31,7,45.9,321.3,Bank Transfer,Two-Year,No Internet,7,No
+CUST0442,Female,77,17,93.04,1581.68,Credit Card,Two-Year,Fiber Optic,8,No
+CUST0443,Male,47,44,52.49,2309.56,Bank Transfer,Monthly,No Internet,3,Yes
+CUST0444,Female,52,20,11.21,224.2,Bank Transfer,One-Year,DSL,0,No
+CUST0445,Female,38,36,35.45,1276.2,Credit Card,One-Year,No Internet,0,Yes
+CUST0446,Male,54,9,14.01,126.09,PayPal,Two-Year,DSL,4,No
+CUST0447,Male,22,38,13.27,504.26,Bank Transfer,Monthly,DSL,1,No
+CUST0448,Female,36,48,34.81,1670.88,PayPal,Two-Year,DSL,7,No
+CUST0449,Male,76,57,34.81,1984.17,PayPal,Monthly,Fiber Optic,9,No
+CUST0450,Female,31,22,80.84,1778.48,Credit Card,Monthly,No Internet,4,Yes
+CUST0451,Female,43,54,97.74,5277.96,Credit Card,One-Year,DSL,4,Yes
+CUST0452,Female,79,53,43.41,2300.73,Credit Card,One-Year,DSL,1,No
+CUST0453,Female,21,53,48.6,2575.8,Bank Transfer,Monthly,Fiber Optic,6,No
+CUST0454,Female,42,2,86.03,172.06,Credit Card,Two-Year,No Internet,7,Yes
+CUST0455,Male,62,24,34.13,819.12,Credit Card,One-Year,No Internet,9,Yes
+CUST0456,Male,59,8,24.07,192.56,Bank Transfer,Two-Year,Fiber Optic,0,No
+CUST0457,Female,42,11,86.78,954.58,Bank Transfer,One-Year,Fiber Optic,1,Yes
+CUST0458,Female,35,13,14.19,184.47,Credit Card,One-Year,No Internet,9,No
+CUST0459,Male,57,17,65.77,1118.09,Credit Card,Two-Year,Fiber Optic,3,No
+CUST0460,Male,25,8,60.58,484.64,Credit Card,One-Year,No Internet,4,Yes
+CUST0461,Female,56,21,41.13,863.73,Credit Card,One-Year,No Internet,1,Yes
+CUST0462,Male,57,18,38.37,690.66,PayPal,Two-Year,DSL,0,No
+CUST0463,Female,31,30,79.47,2384.1,PayPal,One-Year,DSL,8,No
+CUST0464,Male,49,18,17.78,320.04,Credit Card,One-Year,No Internet,0,No
+CUST0465,Female,68,46,31.31,1440.26,PayPal,One-Year,No Internet,3,No
+CUST0466,Male,78,47,75.92,3568.24,Bank Transfer,Two-Year,No Internet,1,Yes
+CUST0467,Female,55,31,59.35,1839.85,PayPal,Monthly,No Internet,3,No
+CUST0468,Male,50,38,21.52,817.76,PayPal,Two-Year,No Internet,7,No
+CUST0469,Male,40,32,89.39,2860.48,Credit Card,Monthly,No Internet,7,Yes
+CUST0470,Female,32,11,45.41,499.51,PayPal,One-Year,Fiber Optic,8,No
+CUST0471,Male,50,45,84.51,3802.95,PayPal,Monthly,No Internet,4,Yes
+CUST0472,Female,42,25,80.89,2022.25,PayPal,Two-Year,Fiber Optic,6,Yes
+CUST0473,Male,34,33,66.2,2184.6,PayPal,Two-Year,Fiber Optic,2,Yes
+CUST0474,Female,50,38,54.5,2071.0,Bank Transfer,One-Year,No Internet,9,No
+CUST0475,Male,64,41,98.16,4024.56,Credit Card,Monthly,No Internet,3,No
+CUST0476,Female,72,8,23.05,184.4,Credit Card,One-Year,Fiber Optic,9,No
+CUST0477,Male,19,11,75.26,827.86,Bank Transfer,One-Year,Fiber Optic,8,No
+CUST0478,Female,31,22,27.21,598.62,PayPal,Two-Year,No Internet,9,No
+CUST0479,Male,70,51,40.44,2062.44,Bank Transfer,Monthly,No Internet,9,Yes
+CUST0480,Female,57,24,37.78,906.72,PayPal,Monthly,Fiber Optic,0,Yes
+CUST0481,Female,57,41,95.23,3904.43,Bank Transfer,Monthly,Fiber Optic,1,Yes
+CUST0482,Female,68,17,97.06,1650.02,Credit Card,Monthly,Fiber Optic,4,Yes
+CUST0483,Male,56,12,26.47,317.64,Credit Card,One-Year,DSL,2,No
+CUST0484,Female,68,57,11.98,682.86,Credit Card,One-Year,Fiber Optic,1,No
+CUST0485,Male,23,46,74.8,3440.8,PayPal,Two-Year,DSL,0,No
+CUST0486,Female,23,32,47.62,1523.84,PayPal,One-Year,No Internet,9,Yes
+CUST0487,Male,20,15,18.0,270.0,Bank Transfer,One-Year,No Internet,2,No
+CUST0488,Female,24,16,71.54,1144.64,Bank Transfer,Two-Year,Fiber Optic,0,No
+CUST0489,Male,68,54,59.06,3189.24,Credit Card,Two-Year,No Internet,0,Yes
+CUST0490,Male,25,22,98.25,2161.5,PayPal,Two-Year,No Internet,0,No
+CUST0491,Female,59,28,30.47,853.16,Bank Transfer,One-Year,No Internet,7,No
+CUST0492,Male,69,20,46.36,927.2,PayPal,One-Year,No Internet,2,No
+CUST0493,Male,32,33,58.83,1941.39,PayPal,Two-Year,DSL,0,No
+CUST0494,Female,64,10,81.25,812.5,Credit Card,Two-Year,DSL,6,No
+CUST0495,Male,46,40,59.4,2376.0,Credit Card,Two-Year,Fiber Optic,9,Yes
+CUST0496,Male,50,32,65.16,2085.12,PayPal,One-Year,Fiber Optic,2,No
+CUST0497,Male,69,50,30.35,1517.5,PayPal,One-Year,Fiber Optic,7,Yes
+CUST0498,Female,47,33,86.22,2845.26,PayPal,Monthly,No Internet,3,Yes
+CUST0499,Male,56,2,48.58,97.16,PayPal,One-Year,No Internet,3,No
+CUST0500,Female,44,33,22.69,748.77,Credit Card,One-Year,DSL,4,No
+CUST0501,Male,53,33,69.78,2302.74,Bank Transfer,One-Year,DSL,5,No
+CUST0502,Male,46,41,29.45,1207.45,Credit Card,Two-Year,Fiber Optic,6,No
+CUST0503,Male,55,13,18.78,244.14,Bank Transfer,One-Year,DSL,3,No
+CUST0504,Female,74,30,87.58,2627.4,PayPal,Two-Year,DSL,7,No
+CUST0505,Male,50,33,51.41,1696.53,Bank Transfer,Monthly,DSL,5,No
+CUST0506,Male,78,13,77.44,1006.72,Credit Card,Monthly,DSL,0,Yes
+CUST0507,Female,54,52,36.15,1879.8,Credit Card,Two-Year,DSL,0,No
+CUST0508,Male,44,26,80.83,2101.58,PayPal,Two-Year,Fiber Optic,8,Yes
+CUST0509,Female,72,22,20.07,441.54,Credit Card,Two-Year,Fiber Optic,9,No
+CUST0510,Female,50,39,42.04,1639.56,PayPal,One-Year,DSL,5,Yes
+CUST0511,Male,79,2,98.03,196.06,Credit Card,Monthly,Fiber Optic,9,No
+CUST0512,Female,21,38,81.46,3095.48,Credit Card,Two-Year,No Internet,7,Yes
+CUST0513,Male,39,39,54.75,2135.25,PayPal,One-Year,DSL,6,No
+CUST0514,Female,19,26,40.58,1055.08,Bank Transfer,Monthly,No Internet,5,No
+CUST0515,Female,27,46,88.49,4070.54,Credit Card,One-Year,Fiber Optic,3,Yes
+CUST0516,Male,22,58,59.04,3424.32,Bank Transfer,Monthly,Fiber Optic,6,No
+CUST0517,Female,76,50,78.26,3913.0,Credit Card,One-Year,No Internet,8,No
+CUST0518,Female,27,15,77.87,1168.05,Credit Card,Monthly,Fiber Optic,9,No
+CUST0519,Female,50,34,11.62,395.08,Credit Card,Monthly,DSL,9,Yes
+CUST0520,Female,71,42,21.36,897.12,Credit Card,One-Year,No Internet,6,No
+CUST0521,Female,55,55,69.37,3815.35,Bank Transfer,Two-Year,DSL,0,No
+CUST0522,Male,30,44,24.55,1080.2,Bank Transfer,Monthly,No Internet,9,No
+CUST0523,Female,48,49,32.99,1616.51,Credit Card,Two-Year,Fiber Optic,8,Yes
+CUST0524,Male,64,40,95.2,3808.0,Credit Card,One-Year,No Internet,3,No
+CUST0525,Female,53,11,60.42,664.62,Bank Transfer,Two-Year,No Internet,2,No
+CUST0526,Male,62,3,77.57,232.71,PayPal,Two-Year,DSL,3,No
+CUST0527,Male,41,59,60.22,3552.98,PayPal,Two-Year,Fiber Optic,3,No
+CUST0528,Female,69,6,59.73,358.38,Bank Transfer,Two-Year,DSL,9,No
+CUST0529,Female,73,9,18.47,166.23,Credit Card,Two-Year,Fiber Optic,1,Yes
+CUST0530,Female,32,6,40.93,245.58,Credit Card,Monthly,DSL,0,No
+CUST0531,Male,46,9,35.42,318.78,PayPal,Monthly,No Internet,9,No
+CUST0532,Female,25,39,45.17,1761.63,PayPal,Monthly,DSL,0,Yes
+CUST0533,Male,22,31,81.85,2537.35,Bank Transfer,One-Year,Fiber Optic,7,No
+CUST0534,Male,46,32,43.47,1391.04,PayPal,Two-Year,Fiber Optic,1,Yes
+CUST0535,Male,64,41,50.65,2076.65,Bank Transfer,Monthly,No Internet,9,No
+CUST0536,Female,21,50,45.76,2288.0,PayPal,One-Year,Fiber Optic,4,No
+CUST0537,Female,29,12,18.41,220.92,PayPal,Monthly,DSL,3,Yes
+CUST0538,Male,62,8,49.7,397.6,PayPal,Monthly,No Internet,7,No
+CUST0539,Male,19,8,27.6,220.8,Credit Card,Two-Year,Fiber Optic,1,No
+CUST0540,Female,44,50,26.81,1340.5,Credit Card,One-Year,Fiber Optic,9,Yes
+CUST0541,Male,48,28,18.46,516.88,Credit Card,Two-Year,DSL,8,No
+CUST0542,Female,68,20,42.1,842.0,PayPal,Two-Year,DSL,6,No
+CUST0543,Male,68,47,78.17,3673.99,Bank Transfer,Monthly,No Internet,6,No
+CUST0544,Female,53,59,34.88,2057.92,Bank Transfer,Two-Year,Fiber Optic,0,Yes
+CUST0545,Male,53,7,38.11,266.77,Bank Transfer,One-Year,DSL,1,No
+CUST0546,Female,43,11,67.84,746.24,Bank Transfer,Two-Year,No Internet,3,Yes
+CUST0547,Male,60,20,27.63,552.6,Credit Card,Two-Year,Fiber Optic,3,No
+CUST0548,Female,44,16,90.73,1451.68,Credit Card,Two-Year,Fiber Optic,2,Yes
+CUST0549,Female,22,4,56.82,227.28,PayPal,Monthly,No Internet,6,No
+CUST0550,Male,37,6,50.28,301.68,PayPal,One-Year,No Internet,7,No
+CUST0551,Male,28,58,60.2,3491.6,Bank Transfer,Monthly,DSL,1,No
+CUST0552,Female,79,22,24.94,548.68,Credit Card,Monthly,Fiber Optic,3,No
+CUST0553,Male,27,26,65.21,1695.46,Bank Transfer,Monthly,Fiber Optic,2,Yes
+CUST0554,Female,57,3,42.68,128.04,PayPal,Monthly,Fiber Optic,1,Yes
+CUST0555,Male,55,41,90.75,3720.75,PayPal,Monthly,No Internet,5,No
+CUST0556,Female,23,42,25.2,1058.4,Bank Transfer,One-Year,DSL,3,No
+CUST0557,Female,25,14,55.63,778.82,PayPal,Two-Year,Fiber Optic,5,Yes
+CUST0558,Female,40,11,63.83,702.13,Bank Transfer,Monthly,No Internet,1,No
+CUST0559,Female,64,18,13.0,234.0,Credit Card,Monthly,Fiber Optic,3,No
+CUST0560,Female,43,54,42.73,2307.42,Bank Transfer,One-Year,DSL,5,No
+CUST0561,Female,63,12,75.94,911.28,Credit Card,One-Year,Fiber Optic,4,Yes
+CUST0562,Male,60,23,83.83,1928.09,Credit Card,Two-Year,DSL,2,Yes
+CUST0563,Male,29,12,38.18,458.16,PayPal,One-Year,DSL,7,Yes
+CUST0564,Male,43,13,81.87,1064.31,PayPal,Two-Year,Fiber Optic,6,No
+CUST0565,Female,30,25,97.1,2427.5,PayPal,Monthly,Fiber Optic,2,No
+CUST0566,Female,57,45,87.12,3920.4,Bank Transfer,Monthly,DSL,5,No
+CUST0567,Female,79,51,20.59,1050.09,Bank Transfer,Two-Year,No Internet,3,No
+CUST0568,Female,35,58,76.58,4441.64,PayPal,One-Year,DSL,4,No
+CUST0569,Male,42,19,38.77,736.63,Bank Transfer,Two-Year,Fiber Optic,4,No
+CUST0570,Male,50,55,98.96,5442.8,PayPal,One-Year,Fiber Optic,6,No
+CUST0571,Female,64,46,53.68,2469.28,Bank Transfer,Monthly,No Internet,4,Yes
+CUST0572,Male,57,36,21.02,756.72,Credit Card,One-Year,DSL,2,No
+CUST0573,Male,77,45,75.27,3387.15,Credit Card,Two-Year,DSL,9,No
+CUST0574,Female,60,8,39.07,312.56,PayPal,Two-Year,DSL,4,Yes
+CUST0575,Male,29,29,99.74,2892.46,Bank Transfer,Monthly,Fiber Optic,6,No
+CUST0576,Female,61,55,98.18,5399.9,Bank Transfer,One-Year,DSL,4,Yes
+CUST0577,Male,53,53,69.05,3659.65,Credit Card,One-Year,No Internet,4,No
+CUST0578,Female,65,55,21.68,1192.4,Credit Card,One-Year,Fiber Optic,8,No
+CUST0579,Female,21,32,71.82,2298.24,PayPal,Monthly,Fiber Optic,2,No
+CUST0580,Female,22,51,18.37,936.87,Credit Card,One-Year,DSL,5,No
+CUST0581,Female,73,44,12.64,556.16,PayPal,Two-Year,No Internet,0,Yes
+CUST0582,Male,54,18,84.07,1513.26,Credit Card,One-Year,Fiber Optic,9,No
+CUST0583,Female,25,6,28.88,173.28,Credit Card,Monthly,Fiber Optic,4,Yes
+CUST0584,Female,59,18,44.11,793.98,Bank Transfer,One-Year,DSL,7,No
+CUST0585,Female,66,19,97.61,1854.59,Credit Card,One-Year,DSL,4,No
+CUST0586,Male,45,22,40.32,887.04,Credit Card,Two-Year,No Internet,8,No
+CUST0587,Female,48,37,36.68,1357.16,PayPal,One-Year,DSL,5,No
+CUST0588,Male,75,32,92.64,2964.48,Credit Card,Two-Year,No Internet,7,No
+CUST0589,Female,26,56,19.97,1118.32,PayPal,Two-Year,Fiber Optic,9,No
+CUST0590,Male,71,41,78.36,3212.76,Credit Card,Monthly,No Internet,7,No
+CUST0591,Male,68,59,98.93,5836.87,Credit Card,Two-Year,No Internet,2,No
+CUST0592,Female,46,3,91.12,273.36,PayPal,Two-Year,No Internet,6,Yes
+CUST0593,Male,31,28,68.65,1922.2,Bank Transfer,Monthly,Fiber Optic,6,No
+CUST0594,Female,57,10,38.27,382.7,PayPal,Two-Year,DSL,9,No
+CUST0595,Female,58,51,32.89,1677.39,PayPal,Monthly,Fiber Optic,5,Yes
+CUST0596,Female,39,35,83.73,2930.55,PayPal,One-Year,DSL,6,No
+CUST0597,Male,28,29,89.18,2586.22,Bank Transfer,Monthly,No Internet,1,Yes
+CUST0598,Male,40,54,57.29,3093.66,Credit Card,Two-Year,No Internet,8,No
+CUST0599,Female,18,15,31.99,479.85,PayPal,Monthly,No Internet,9,Yes
+CUST0600,Female,63,33,20.16,665.28,PayPal,Two-Year,No Internet,9,No
+CUST0601,Male,54,7,17.85,124.95,Bank Transfer,One-Year,No Internet,0,Yes
+CUST0602,Female,38,12,74.72,896.64,PayPal,Monthly,DSL,0,No
+CUST0603,Female,43,49,47.81,2342.69,Credit Card,One-Year,DSL,2,No
+CUST0604,Female,63,30,91.48,2744.4,Bank Transfer,Two-Year,No Internet,2,No
+CUST0605,Male,53,21,76.57,1607.97,Credit Card,Two-Year,Fiber Optic,0,No
+CUST0606,Male,71,31,27.21,843.51,Credit Card,One-Year,Fiber Optic,6,No
+CUST0607,Male,40,58,65.24,3783.92,Bank Transfer,Monthly,No Internet,3,Yes
+CUST0608,Female,74,24,49.2,1180.8,PayPal,Monthly,DSL,9,Yes
+CUST0609,Female,18,20,61.95,1239.0,Credit Card,Two-Year,Fiber Optic,1,No
+CUST0610,Female,71,37,76.43,2827.91,Credit Card,One-Year,Fiber Optic,9,No
+CUST0611,Male,72,4,82.56,330.24,Credit Card,One-Year,Fiber Optic,4,Yes
+CUST0612,Female,68,28,85.94,2406.32,Credit Card,Monthly,No Internet,5,No
+CUST0613,Female,57,44,32.86,1445.84,Bank Transfer,Monthly,Fiber Optic,8,Yes
+CUST0614,Female,32,20,12.8,256.0,Bank Transfer,Monthly,Fiber Optic,3,Yes
+CUST0615,Female,38,24,76.54,1836.96,Credit Card,One-Year,Fiber Optic,1,No
+CUST0616,Male,64,50,19.57,978.5,PayPal,Monthly,Fiber Optic,4,No
+CUST0617,Male,26,49,38.34,1878.66,Credit Card,Monthly,DSL,2,No
+CUST0618,Female,70,51,10.34,527.34,PayPal,Two-Year,No Internet,1,No
+CUST0619,Male,26,32,71.35,2283.2,Credit Card,Monthly,No Internet,0,No
+CUST0620,Male,27,41,25.04,1026.64,PayPal,Monthly,DSL,9,No
+CUST0621,Female,69,36,68.98,2483.28,Credit Card,One-Year,DSL,1,Yes
+CUST0622,Female,74,58,99.26,5757.08,PayPal,One-Year,No Internet,5,Yes
+CUST0623,Male,70,53,16.54,876.62,Credit Card,Two-Year,Fiber Optic,7,No
+CUST0624,Female,43,34,16.94,575.96,Credit Card,Monthly,Fiber Optic,2,No
+CUST0625,Male,58,36,40.63,1462.68,PayPal,Two-Year,No Internet,8,No
+CUST0626,Female,52,2,87.97,175.94,Bank Transfer,One-Year,Fiber Optic,8,Yes
+CUST0627,Male,69,15,29.4,441.0,PayPal,Two-Year,DSL,1,Yes
+CUST0628,Female,42,34,42.43,1442.62,Bank Transfer,One-Year,Fiber Optic,7,No
+CUST0629,Male,43,36,16.17,582.12,Credit Card,Two-Year,Fiber Optic,9,Yes
+CUST0630,Male,28,6,78.68,472.08,PayPal,Two-Year,Fiber Optic,4,No
+CUST0631,Male,55,39,46.75,1823.25,PayPal,Monthly,No Internet,3,Yes
+CUST0632,Female,19,42,78.33,3289.86,PayPal,Two-Year,DSL,9,Yes
+CUST0633,Male,24,51,91.32,4657.32,Bank Transfer,Monthly,Fiber Optic,4,No
+CUST0634,Male,35,51,30.95,1578.45,Bank Transfer,Monthly,No Internet,3,No
+CUST0635,Female,44,58,82.67,4794.86,Credit Card,Monthly,Fiber Optic,7,No
+CUST0636,Female,51,54,15.32,827.28,Bank Transfer,Monthly,DSL,3,Yes
+CUST0637,Male,44,12,90.9,1090.8,Bank Transfer,Two-Year,Fiber Optic,9,No
+CUST0638,Male,34,3,68.57,205.71,Credit Card,One-Year,DSL,5,Yes
+CUST0639,Female,60,45,88.68,3990.6,PayPal,One-Year,Fiber Optic,1,No
+CUST0640,Female,76,18,10.02,180.36,PayPal,One-Year,DSL,4,No
+CUST0641,Female,61,40,25.22,1008.8,Credit Card,Two-Year,Fiber Optic,5,Yes
+CUST0642,Female,76,21,45.08,946.68,PayPal,Monthly,DSL,4,No
+CUST0643,Female,68,15,44.16,662.4,Bank Transfer,One-Year,Fiber Optic,1,Yes
+CUST0644,Male,71,33,30.41,1003.53,Credit Card,Two-Year,Fiber Optic,6,No
+CUST0645,Female,41,35,44.35,1552.25,Credit Card,Monthly,No Internet,3,No
+CUST0646,Male,42,26,21.6,561.6,Credit Card,One-Year,No Internet,7,No
+CUST0647,Male,24,8,47.15,377.2,PayPal,Monthly,DSL,6,Yes
+CUST0648,Male,69,36,82.21,2959.56,Credit Card,One-Year,Fiber Optic,6,No
+CUST0649,Female,23,48,53.12,2549.76,Credit Card,One-Year,DSL,8,No
+CUST0650,Male,70,30,11.62,348.6,Credit Card,One-Year,No Internet,0,No
+CUST0651,Male,41,23,47.93,1102.39,PayPal,Monthly,DSL,9,No
+CUST0652,Female,50,42,12.45,522.9,Bank Transfer,Two-Year,DSL,5,Yes
+CUST0653,Male,66,44,96.96,4266.24,Credit Card,Monthly,No Internet,5,No
+CUST0654,Male,46,14,21.47,300.58,Bank Transfer,One-Year,Fiber Optic,5,Yes
+CUST0655,Female,60,14,73.69,1031.66,PayPal,Monthly,DSL,5,Yes
+CUST0656,Male,39,2,97.55,195.1,PayPal,Two-Year,No Internet,9,No
+CUST0657,Male,43,55,84.34,4638.7,PayPal,Monthly,Fiber Optic,6,No
+CUST0658,Male,45,37,72.94,2698.78,PayPal,Two-Year,No Internet,9,No
+CUST0659,Female,67,5,85.55,427.75,Bank Transfer,Two-Year,DSL,5,No
+CUST0660,Female,38,38,98.36,3737.68,Credit Card,Monthly,Fiber Optic,0,No
+CUST0661,Female,66,45,65.92,2966.4,PayPal,One-Year,Fiber Optic,2,No
+CUST0662,Male,24,41,60.33,2473.53,PayPal,Two-Year,No Internet,1,No
+CUST0663,Male,34,54,66.54,3593.16,Bank Transfer,Monthly,No Internet,5,Yes
+CUST0664,Female,37,47,57.94,2723.18,Bank Transfer,Two-Year,No Internet,7,No
+CUST0665,Male,58,14,67.16,940.24,PayPal,One-Year,Fiber Optic,2,Yes
+CUST0666,Male,66,56,50.49,2827.44,Credit Card,Monthly,Fiber Optic,9,No
+CUST0667,Female,37,39,29.66,1156.74,Credit Card,Monthly,DSL,7,No
+CUST0668,Female,71,25,20.82,520.5,PayPal,Monthly,Fiber Optic,7,No
+CUST0669,Male,39,20,16.15,323.0,Bank Transfer,One-Year,DSL,4,No
+CUST0670,Male,45,2,33.7,67.4,PayPal,Two-Year,No Internet,7,Yes
+CUST0671,Male,78,39,14.15,551.85,PayPal,Monthly,No Internet,5,No
+CUST0672,Female,57,6,61.05,366.3,Bank Transfer,Two-Year,Fiber Optic,4,Yes
+CUST0673,Female,66,17,35.54,604.18,PayPal,Two-Year,No Internet,8,No
+CUST0674,Female,24,59,84.21,4968.39,PayPal,One-Year,No Internet,6,No
+CUST0675,Female,18,25,16.68,417.0,PayPal,Monthly,Fiber Optic,7,No
+CUST0676,Male,49,57,30.37,1731.09,Bank Transfer,Two-Year,DSL,0,Yes
+CUST0677,Female,30,28,75.72,2120.16,Credit Card,Monthly,Fiber Optic,1,Yes
+CUST0678,Female,47,2,63.89,127.78,Credit Card,Monthly,DSL,7,Yes
+CUST0679,Female,40,35,15.8,553.0,Bank Transfer,One-Year,Fiber Optic,8,No
+CUST0680,Female,68,37,88.95,3291.15,Credit Card,Monthly,Fiber Optic,3,No
+CUST0681,Female,76,5,88.95,444.75,PayPal,Monthly,No Internet,9,Yes
+CUST0682,Male,73,1,39.74,39.74,Credit Card,Two-Year,Fiber Optic,9,No
+CUST0683,Male,36,40,40.64,1625.6,PayPal,One-Year,Fiber Optic,8,No
+CUST0684,Female,79,12,99.01,1188.12,Credit Card,Monthly,DSL,3,No
+CUST0685,Male,49,56,66.36,3716.16,Bank Transfer,Two-Year,No Internet,9,No
+CUST0686,Female,47,36,57.82,2081.52,Credit Card,One-Year,DSL,9,No
+CUST0687,Female,46,45,85.43,3844.35,Credit Card,One-Year,DSL,9,Yes
+CUST0688,Male,66,23,35.68,820.64,Credit Card,Two-Year,No Internet,8,Yes
+CUST0689,Male,62,47,48.63,2285.61,Bank Transfer,Two-Year,No Internet,6,Yes
+CUST0690,Female,46,31,34.1,1057.1,Credit Card,Two-Year,No Internet,1,No
+CUST0691,Female,47,11,81.02,891.22,Bank Transfer,Two-Year,Fiber Optic,8,No
+CUST0692,Female,33,10,61.6,616.0,PayPal,Two-Year,No Internet,3,No
+CUST0693,Male,57,3,69.29,207.87,Credit Card,Monthly,No Internet,7,Yes
+CUST0694,Female,36,54,32.71,1766.34,Bank Transfer,Monthly,No Internet,6,No
+CUST0695,Female,35,14,29.82,417.48,Bank Transfer,One-Year,DSL,6,Yes
+CUST0696,Female,18,16,53.95,863.2,Credit Card,Monthly,DSL,7,Yes
+CUST0697,Male,31,10,76.38,763.8,PayPal,Monthly,Fiber Optic,0,No
+CUST0698,Female,68,29,57.27,1660.83,Bank Transfer,Monthly,DSL,4,No
+CUST0699,Female,64,10,12.94,129.4,Credit Card,Two-Year,Fiber Optic,1,No
+CUST0700,Male,67,12,88.17,1058.04,PayPal,One-Year,DSL,1,No
+CUST0701,Female,19,30,15.82,474.6,Bank Transfer,One-Year,No Internet,0,Yes
+CUST0702,Female,71,41,96.02,3936.82,Bank Transfer,One-Year,DSL,4,Yes
+CUST0703,Male,45,1,12.26,12.26,PayPal,One-Year,Fiber Optic,1,No
+CUST0704,Female,66,5,72.5,362.5,PayPal,Monthly,DSL,3,No
+CUST0705,Male,67,20,17.4,348.0,Credit Card,Monthly,No Internet,2,No
+CUST0706,Male,47,8,91.96,735.68,Credit Card,Two-Year,Fiber Optic,2,No
+CUST0707,Female,55,43,51.8,2227.4,Bank Transfer,One-Year,No Internet,1,No
+CUST0708,Female,68,12,22.38,268.56,PayPal,Monthly,No Internet,5,Yes
+CUST0709,Female,21,1,40.67,40.67,PayPal,Monthly,Fiber Optic,1,Yes
+CUST0710,Female,18,57,24.83,1415.31,PayPal,Two-Year,No Internet,7,No
+CUST0711,Male,25,54,25.35,1368.9,Bank Transfer,Two-Year,No Internet,7,Yes
+CUST0712,Female,46,20,95.33,1906.6,PayPal,Two-Year,DSL,4,No
+CUST0713,Male,72,28,50.07,1401.96,PayPal,Monthly,No Internet,9,No
+CUST0714,Female,56,57,80.99,4616.43,Bank Transfer,Monthly,No Internet,6,No
+CUST0715,Female,20,43,67.56,2905.08,Credit Card,Two-Year,No Internet,3,Yes
+CUST0716,Female,49,37,70.88,2622.56,Credit Card,One-Year,No Internet,0,Yes
+CUST0717,Male,27,47,21.85,1026.95,Bank Transfer,Two-Year,Fiber Optic,1,No
+CUST0718,Female,27,37,31.08,1149.96,PayPal,Two-Year,DSL,9,No
+CUST0719,Female,36,12,80.81,969.72,Bank Transfer,Two-Year,No Internet,9,No
+CUST0720,Female,63,37,97.37,3602.69,Credit Card,Two-Year,No Internet,3,No
+CUST0721,Female,51,49,33.64,1648.36,Credit Card,Monthly,Fiber Optic,0,No
+CUST0722,Male,77,49,34.44,1687.56,Bank Transfer,One-Year,No Internet,7,No
+CUST0723,Female,50,56,52.56,2943.36,Bank Transfer,Two-Year,Fiber Optic,8,No
+CUST0724,Male,40,44,98.55,4336.2,Credit Card,One-Year,DSL,3,No
+CUST0725,Male,72,56,34.21,1915.76,Bank Transfer,One-Year,DSL,9,No
+CUST0726,Male,45,28,46.63,1305.64,Credit Card,One-Year,No Internet,2,Yes
+CUST0727,Male,49,47,90.23,4240.81,Bank Transfer,Two-Year,No Internet,1,No
+CUST0728,Male,67,15,10.26,153.9,Bank Transfer,Monthly,No Internet,4,No
+CUST0729,Male,24,6,13.58,81.48,Bank Transfer,Two-Year,Fiber Optic,2,No
+CUST0730,Female,46,44,64.37,2832.28,Credit Card,One-Year,No Internet,9,No
+CUST0731,Male,25,59,91.66,5407.94,Bank Transfer,One-Year,No Internet,6,No
+CUST0732,Male,18,20,31.5,630.0,Credit Card,Monthly,DSL,5,No
+CUST0733,Male,74,50,52.27,2613.5,Credit Card,Two-Year,No Internet,0,No
+CUST0734,Female,72,14,50.54,707.56,Bank Transfer,One-Year,DSL,7,No
+CUST0735,Female,20,2,52.57,105.14,Bank Transfer,Monthly,No Internet,1,No
+CUST0736,Male,41,9,66.03,594.27,Credit Card,One-Year,DSL,4,No
+CUST0737,Female,40,37,52.28,1934.36,Credit Card,Monthly,No Internet,8,No
+CUST0738,Male,76,20,50.27,1005.4,PayPal,Monthly,DSL,7,Yes
+CUST0739,Male,78,26,52.69,1369.94,Credit Card,Two-Year,Fiber Optic,1,No
+CUST0740,Female,25,29,63.18,1832.22,PayPal,One-Year,DSL,8,Yes
+CUST0741,Male,71,1,58.33,58.33,PayPal,Two-Year,DSL,4,No
+CUST0742,Female,74,55,86.87,4777.85,PayPal,One-Year,DSL,9,Yes
+CUST0743,Female,64,35,14.45,505.75,Bank Transfer,Two-Year,No Internet,5,No
+CUST0744,Male,54,6,85.0,510.0,Bank Transfer,One-Year,No Internet,2,No
+CUST0745,Male,20,37,85.95,3180.15,Credit Card,Two-Year,No Internet,2,Yes
+CUST0746,Female,68,53,35.64,1888.92,PayPal,Monthly,Fiber Optic,9,Yes
+CUST0747,Male,50,59,51.66,3047.94,Bank Transfer,One-Year,Fiber Optic,7,Yes
+CUST0748,Male,45,5,49.47,247.35,Bank Transfer,One-Year,DSL,9,No
+CUST0749,Male,64,33,29.67,979.11,Bank Transfer,Monthly,Fiber Optic,9,No
+CUST0750,Female,25,49,45.71,2239.79,Bank Transfer,Two-Year,DSL,1,Yes
+CUST0751,Female,51,51,13.99,713.49,Bank Transfer,One-Year,DSL,1,Yes
+CUST0752,Male,52,14,35.0,490.0,PayPal,One-Year,DSL,4,No
+CUST0753,Female,49,12,83.5,1002.0,PayPal,Two-Year,Fiber Optic,5,Yes
+CUST0754,Female,41,42,35.61,1495.62,PayPal,Monthly,No Internet,1,No
+CUST0755,Female,31,20,83.64,1672.8,PayPal,Two-Year,Fiber Optic,4,Yes
+CUST0756,Female,49,53,57.84,3065.52,Credit Card,Two-Year,DSL,6,No
+CUST0757,Female,73,50,89.19,4459.5,PayPal,Two-Year,DSL,9,Yes
+CUST0758,Male,63,24,61.73,1481.52,Bank Transfer,One-Year,Fiber Optic,9,No
+CUST0759,Male,60,59,12.67,747.53,PayPal,Monthly,DSL,7,Yes
+CUST0760,Male,33,43,70.79,3043.97,Credit Card,Monthly,DSL,6,No
+CUST0761,Female,21,34,14.04,477.36,Bank Transfer,Two-Year,Fiber Optic,7,No
+CUST0762,Female,69,25,50.55,1263.75,PayPal,One-Year,Fiber Optic,8,No
+CUST0763,Male,54,50,93.65,4682.5,PayPal,Two-Year,Fiber Optic,4,No
+CUST0764,Female,71,29,24.87,721.23,PayPal,One-Year,DSL,4,No
+CUST0765,Male,38,57,45.09,2570.13,Bank Transfer,One-Year,DSL,9,No
+CUST0766,Male,31,39,75.69,2951.91,Bank Transfer,One-Year,No Internet,3,No
+CUST0767,Male,48,31,89.4,2771.4,Credit Card,One-Year,No Internet,8,Yes
+CUST0768,Female,72,56,70.38,3941.28,Bank Transfer,Monthly,Fiber Optic,4,No
+CUST0769,Female,65,47,33.24,1562.28,Bank Transfer,One-Year,No Internet,1,No
+CUST0770,Male,35,43,70.71,3040.53,PayPal,One-Year,DSL,9,Yes
+CUST0771,Male,24,50,36.71,1835.5,Bank Transfer,Two-Year,No Internet,7,Yes
+CUST0772,Male,27,23,74.66,1717.18,PayPal,Two-Year,DSL,6,Yes
+CUST0773,Male,24,44,95.86,4217.84,PayPal,Monthly,Fiber Optic,7,No
+CUST0774,Female,50,38,74.93,2847.34,Bank Transfer,Two-Year,Fiber Optic,2,Yes
+CUST0775,Female,40,20,87.66,1753.2,Credit Card,One-Year,DSL,3,Yes
+CUST0776,Male,38,23,10.19,234.37,Credit Card,Two-Year,No Internet,4,Yes
+CUST0777,Male,36,45,74.58,3356.1,Bank Transfer,Monthly,Fiber Optic,5,No
+CUST0778,Female,65,52,84.66,4402.32,Credit Card,Two-Year,Fiber Optic,0,No
+CUST0779,Female,78,16,13.65,218.4,PayPal,Two-Year,No Internet,3,No
+CUST0780,Male,36,50,88.44,4422.0,PayPal,Monthly,No Internet,9,Yes
+CUST0781,Male,53,42,33.1,1390.2,Bank Transfer,Monthly,DSL,4,Yes
+CUST0782,Male,46,55,69.88,3843.4,Credit Card,One-Year,No Internet,6,No
+CUST0783,Female,77,8,82.03,656.24,Credit Card,Two-Year,No Internet,4,No
+CUST0784,Female,35,50,69.64,3482.0,PayPal,One-Year,No Internet,0,No
+CUST0785,Female,19,21,18.31,384.51,Bank Transfer,Two-Year,DSL,6,Yes
+CUST0786,Male,18,1,63.67,63.67,Credit Card,Two-Year,DSL,7,No
+CUST0787,Male,64,55,59.46,3270.3,Bank Transfer,One-Year,Fiber Optic,6,No
+CUST0788,Female,22,8,91.03,728.24,Credit Card,Two-Year,DSL,3,Yes
+CUST0789,Female,37,29,46.38,1345.02,PayPal,Two-Year,Fiber Optic,7,Yes
+CUST0790,Male,28,32,38.9,1244.8,PayPal,Two-Year,No Internet,4,No
+CUST0791,Female,59,38,77.49,2944.62,Bank Transfer,Monthly,Fiber Optic,9,No
+CUST0792,Female,19,5,47.14,235.7,PayPal,One-Year,Fiber Optic,8,No
+CUST0793,Male,20,47,68.15,3203.05,Credit Card,Monthly,No Internet,9,No
+CUST0794,Female,40,22,68.18,1499.96,PayPal,One-Year,Fiber Optic,4,No
+CUST0795,Male,72,47,89.92,4226.24,Bank Transfer,One-Year,DSL,0,Yes
+CUST0796,Male,29,34,63.88,2171.92,Bank Transfer,Two-Year,DSL,8,No
+CUST0797,Male,37,1,55.19,55.19,Bank Transfer,One-Year,DSL,4,No
+CUST0798,Male,22,55,22.5,1237.5,Credit Card,Monthly,DSL,5,Yes
+CUST0799,Male,54,55,20.42,1123.1,Credit Card,Monthly,Fiber Optic,3,No
+CUST0800,Male,55,26,23.89,621.14,Credit Card,Monthly,Fiber Optic,5,Yes
+CUST0801,Male,47,43,25.47,1095.21,Credit Card,One-Year,No Internet,7,No
+CUST0802,Female,26,10,67.41,674.1,Credit Card,Monthly,Fiber Optic,2,No
+CUST0803,Male,51,30,76.69,2300.7,PayPal,One-Year,Fiber Optic,4,No
+CUST0804,Male,70,50,57.7,2885.0,Credit Card,Monthly,Fiber Optic,1,No
+CUST0805,Female,61,18,84.61,1522.98,Credit Card,Monthly,No Internet,1,Yes
+CUST0806,Female,52,17,99.21,1686.57,PayPal,One-Year,DSL,6,No
+CUST0807,Female,69,26,83.8,2178.8,Credit Card,Monthly,Fiber Optic,9,No
+CUST0808,Male,75,8,72.54,580.32,Bank Transfer,Two-Year,No Internet,9,No
+CUST0809,Female,39,47,57.92,2722.24,Credit Card,One-Year,No Internet,9,No
+CUST0810,Male,61,40,50.4,2016.0,Credit Card,One-Year,No Internet,5,No
+CUST0811,Male,41,49,17.6,862.4,Bank Transfer,One-Year,DSL,3,Yes
+CUST0812,Male,34,12,45.94,551.28,Bank Transfer,Two-Year,Fiber Optic,4,No
+CUST0813,Male,27,27,91.91,2481.57,Bank Transfer,One-Year,No Internet,0,Yes
+CUST0814,Female,47,8,82.72,661.76,Bank Transfer,Monthly,DSL,6,Yes
+CUST0815,Female,73,25,29.44,736.0,Credit Card,Monthly,No Internet,7,No
+CUST0816,Male,76,46,51.99,2391.54,Bank Transfer,Monthly,No Internet,8,No
+CUST0817,Male,63,4,83.51,334.04,Bank Transfer,One-Year,No Internet,7,Yes
+CUST0818,Male,40,33,16.06,529.98,PayPal,Monthly,No Internet,4,No
+CUST0819,Female,49,1,44.87,44.87,Bank Transfer,One-Year,No Internet,2,Yes
+CUST0820,Male,34,19,86.67,1646.73,Bank Transfer,Monthly,DSL,9,No
+CUST0821,Male,67,31,46.35,1436.85,PayPal,Two-Year,Fiber Optic,8,No
+CUST0822,Female,68,16,16.99,271.84,PayPal,Two-Year,Fiber Optic,5,No
+CUST0823,Female,34,14,58.83,823.62,Credit Card,Two-Year,Fiber Optic,4,Yes
+CUST0824,Male,31,53,87.56,4640.68,PayPal,Two-Year,Fiber Optic,2,No
+CUST0825,Female,26,48,63.13,3030.24,Credit Card,One-Year,DSL,5,No
+CUST0826,Female,57,5,30.37,151.85,PayPal,Monthly,DSL,2,No
+CUST0827,Male,19,41,44.58,1827.78,PayPal,Two-Year,DSL,9,No
+CUST0828,Female,62,26,50.51,1313.26,Credit Card,One-Year,No Internet,5,No
+CUST0829,Male,42,28,62.13,1739.64,PayPal,Two-Year,No Internet,3,Yes
+CUST0830,Female,56,2,78.34,156.68,Credit Card,Two-Year,No Internet,1,No
+CUST0831,Male,26,50,18.9,945.0,PayPal,One-Year,Fiber Optic,7,No
+CUST0832,Male,71,6,90.07,540.42,Bank Transfer,One-Year,No Internet,3,Yes
+CUST0833,Male,39,9,11.11,99.99,PayPal,Monthly,Fiber Optic,8,No
+CUST0834,Female,60,33,43.3,1428.9,Credit Card,Monthly,No Internet,6,Yes
+CUST0835,Male,63,41,12.47,511.27,PayPal,Two-Year,Fiber Optic,1,No
+CUST0836,Female,21,25,45.37,1134.25,Credit Card,Two-Year,No Internet,3,No
+CUST0837,Male,43,48,57.32,2751.36,Credit Card,Monthly,No Internet,4,No
+CUST0838,Male,75,13,56.05,728.65,Bank Transfer,Monthly,DSL,2,No
+CUST0839,Female,46,9,24.91,224.19,Bank Transfer,One-Year,No Internet,8,Yes
+CUST0840,Male,62,53,68.12,3610.36,Credit Card,Monthly,No Internet,4,No
+CUST0841,Male,51,13,14.03,182.39,PayPal,Monthly,DSL,1,Yes
+CUST0842,Female,40,31,78.57,2435.67,Credit Card,Two-Year,Fiber Optic,2,No
+CUST0843,Male,54,41,95.2,3903.2,Credit Card,Monthly,DSL,8,Yes
+CUST0844,Male,28,11,40.58,446.38,PayPal,Two-Year,DSL,6,No
+CUST0845,Male,23,4,56.55,226.2,PayPal,Monthly,Fiber Optic,1,No
+CUST0846,Male,35,34,44.1,1499.4,PayPal,One-Year,No Internet,8,No
+CUST0847,Female,38,38,10.6,402.8,PayPal,Monthly,Fiber Optic,3,No
+CUST0848,Female,59,46,44.73,2057.58,Credit Card,Monthly,No Internet,8,No
+CUST0849,Male,53,4,81.25,325.0,Credit Card,Monthly,No Internet,1,No
+CUST0850,Female,58,38,63.64,2418.32,Bank Transfer,Two-Year,Fiber Optic,9,Yes
+CUST0851,Male,55,19,19.11,363.09,Credit Card,One-Year,DSL,3,No
+CUST0852,Female,51,6,86.24,517.44,PayPal,Monthly,Fiber Optic,4,Yes
+CUST0853,Male,34,34,57.8,1965.2,Bank Transfer,Two-Year,No Internet,1,Yes
+CUST0854,Male,54,18,85.76,1543.68,PayPal,One-Year,Fiber Optic,9,No
+CUST0855,Male,42,13,62.22,808.86,Credit Card,Two-Year,Fiber Optic,0,Yes
+CUST0856,Male,55,41,60.37,2475.17,Bank Transfer,Two-Year,No Internet,6,Yes
+CUST0857,Male,75,23,19.47,447.81,PayPal,One-Year,DSL,9,Yes
+CUST0858,Male,29,19,25.06,476.14,Bank Transfer,Monthly,Fiber Optic,0,Yes
+CUST0859,Female,40,45,97.48,4386.6,Bank Transfer,Two-Year,No Internet,7,Yes
+CUST0860,Male,70,11,30.56,336.16,Credit Card,Two-Year,No Internet,2,No
+CUST0861,Female,59,1,97.97,97.97,PayPal,Monthly,Fiber Optic,9,Yes
+CUST0862,Male,39,24,57.87,1388.88,Bank Transfer,Monthly,DSL,5,No
+CUST0863,Female,38,54,22.22,1199.88,Bank Transfer,One-Year,Fiber Optic,6,Yes
+CUST0864,Female,44,7,18.94,132.58,PayPal,One-Year,DSL,9,No
+CUST0865,Female,74,25,28.8,720.0,Bank Transfer,One-Year,DSL,0,Yes
+CUST0866,Male,48,21,93.31,1959.51,Bank Transfer,Monthly,DSL,5,No
+CUST0867,Male,23,15,47.27,709.05,Bank Transfer,Two-Year,DSL,6,No
+CUST0868,Female,44,1,45.59,45.59,PayPal,Two-Year,Fiber Optic,5,Yes
+CUST0869,Male,57,12,38.19,458.28,PayPal,One-Year,No Internet,3,No
+CUST0870,Female,51,58,23.24,1347.92,PayPal,Monthly,No Internet,0,No
+CUST0871,Male,29,7,53.91,377.37,PayPal,Two-Year,No Internet,8,Yes
+CUST0872,Female,62,15,21.7,325.5,Credit Card,One-Year,No Internet,3,No
+CUST0873,Female,74,21,85.19,1788.99,Bank Transfer,Two-Year,No Internet,6,No
+CUST0874,Male,70,19,43.34,823.46,PayPal,Two-Year,No Internet,6,No
+CUST0875,Female,24,29,43.73,1268.17,Bank Transfer,Monthly,Fiber Optic,1,No
+CUST0876,Male,27,25,52.66,1316.5,Bank Transfer,Monthly,DSL,0,No
+CUST0877,Female,62,33,49.97,1649.01,Credit Card,Two-Year,No Internet,7,No
+CUST0878,Female,34,49,99.54,4877.46,PayPal,One-Year,Fiber Optic,7,No
+CUST0879,Male,43,32,59.08,1890.56,PayPal,Monthly,No Internet,6,No
+CUST0880,Male,38,49,17.94,879.06,Bank Transfer,Two-Year,No Internet,7,Yes
+CUST0881,Male,45,35,64.62,2261.7,PayPal,Monthly,DSL,2,No
+CUST0882,Female,79,44,23.64,1040.16,Bank Transfer,Monthly,DSL,1,Yes
+CUST0883,Male,75,38,12.78,485.64,Bank Transfer,Monthly,DSL,6,Yes
+CUST0884,Female,63,26,97.37,2531.62,Credit Card,Two-Year,No Internet,7,No
+CUST0885,Female,19,11,79.62,875.82,Credit Card,One-Year,No Internet,0,No
+CUST0886,Male,77,35,98.21,3437.35,Credit Card,One-Year,No Internet,9,Yes
+CUST0887,Male,71,8,53.01,424.08,Bank Transfer,One-Year,DSL,8,No
+CUST0888,Female,60,46,57.9,2663.4,PayPal,Monthly,Fiber Optic,3,No
+CUST0889,Female,18,14,25.15,352.1,Credit Card,Two-Year,No Internet,3,No
+CUST0890,Male,68,10,32.22,322.2,PayPal,Monthly,No Internet,2,No
+CUST0891,Male,70,2,85.47,170.94,Credit Card,One-Year,No Internet,5,No
+CUST0892,Male,53,46,42.06,1934.76,Credit Card,One-Year,Fiber Optic,0,Yes
+CUST0893,Male,68,9,84.41,759.69,Bank Transfer,Two-Year,No Internet,5,Yes
+CUST0894,Male,43,3,73.81,221.43,Credit Card,Monthly,Fiber Optic,1,No
+CUST0895,Female,46,21,25.95,544.95,Credit Card,One-Year,No Internet,8,Yes
+CUST0896,Female,38,26,55.67,1447.42,Bank Transfer,Two-Year,Fiber Optic,1,No
+CUST0897,Female,28,8,70.96,567.68,PayPal,Monthly,No Internet,6,No
+CUST0898,Female,57,48,31.15,1495.2,Credit Card,Monthly,DSL,0,No
+CUST0899,Male,28,2,84.76,169.52,Bank Transfer,One-Year,DSL,6,Yes
+CUST0900,Male,53,6,59.03,354.18,Credit Card,One-Year,DSL,4,No
+CUST0901,Male,66,28,24.87,696.36,Bank Transfer,Monthly,DSL,7,No
+CUST0902,Female,76,53,62.47,3310.91,PayPal,Monthly,No Internet,3,No
+CUST0903,Female,56,29,99.97,2899.13,PayPal,One-Year,DSL,9,Yes
+CUST0904,Male,57,26,23.55,612.3,Bank Transfer,Monthly,Fiber Optic,6,No
+CUST0905,Male,52,25,83.51,2087.75,Bank Transfer,One-Year,DSL,5,No
+CUST0906,Female,71,12,28.66,343.92,Bank Transfer,Monthly,DSL,4,No
+CUST0907,Female,51,5,80.41,402.05,PayPal,One-Year,DSL,3,No
+CUST0908,Male,72,34,76.11,2587.74,Credit Card,Two-Year,No Internet,6,Yes
+CUST0909,Male,64,48,37.04,1777.92,PayPal,One-Year,DSL,4,Yes
+CUST0910,Female,41,37,39.32,1454.84,Bank Transfer,One-Year,Fiber Optic,4,No
+CUST0911,Male,71,15,81.33,1219.95,Bank Transfer,Two-Year,DSL,0,No
+CUST0912,Male,39,44,51.53,2267.32,PayPal,Monthly,DSL,1,No
+CUST0913,Male,22,36,75.77,2727.72,Bank Transfer,Two-Year,DSL,4,Yes
+CUST0914,Female,73,15,23.32,349.8,PayPal,One-Year,Fiber Optic,2,Yes
+CUST0915,Female,50,43,86.73,3729.39,Bank Transfer,Monthly,DSL,1,Yes
+CUST0916,Female,75,48,73.98,3551.04,Credit Card,Two-Year,Fiber Optic,3,Yes
+CUST0917,Female,53,23,91.62,2107.26,Credit Card,Monthly,Fiber Optic,3,No
+CUST0918,Female,64,6,21.91,131.46,Bank Transfer,Monthly,DSL,3,No
+CUST0919,Female,37,46,63.37,2915.02,PayPal,Two-Year,Fiber Optic,3,Yes
+CUST0920,Female,36,50,63.92,3196.0,Credit Card,Monthly,No Internet,2,No
+CUST0921,Male,52,44,41.81,1839.64,PayPal,Two-Year,DSL,6,Yes
+CUST0922,Male,69,59,51.26,3024.34,Bank Transfer,One-Year,DSL,8,No
+CUST0923,Male,60,43,13.42,577.06,PayPal,Monthly,Fiber Optic,4,Yes
+CUST0924,Male,34,45,77.13,3470.85,Credit Card,One-Year,Fiber Optic,3,No
+CUST0925,Male,79,21,59.44,1248.24,PayPal,One-Year,DSL,1,No
+CUST0926,Male,76,23,15.2,349.6,PayPal,Monthly,No Internet,1,No
+CUST0927,Male,62,43,71.27,3064.61,Bank Transfer,Two-Year,Fiber Optic,4,No
+CUST0928,Female,60,55,52.01,2860.55,Bank Transfer,Monthly,Fiber Optic,6,No
+CUST0929,Female,51,16,13.1,209.6,Bank Transfer,One-Year,No Internet,9,No
+CUST0930,Male,26,47,97.26,4571.22,Credit Card,One-Year,No Internet,9,Yes
+CUST0931,Male,43,53,95.42,5057.26,Credit Card,Two-Year,DSL,8,No
+CUST0932,Female,19,15,56.16,842.4,Bank Transfer,Monthly,No Internet,6,No
+CUST0933,Male,70,25,18.43,460.75,Bank Transfer,One-Year,DSL,4,Yes
+CUST0934,Male,26,36,77.92,2805.12,Credit Card,One-Year,No Internet,9,No
+CUST0935,Female,26,11,54.27,596.97,Credit Card,One-Year,Fiber Optic,9,No
+CUST0936,Male,57,51,37.22,1898.22,Credit Card,Two-Year,DSL,9,No
+CUST0937,Female,34,15,54.23,813.45,Credit Card,One-Year,DSL,5,No
+CUST0938,Male,18,4,57.02,228.08,Bank Transfer,One-Year,DSL,2,No
+CUST0939,Female,42,21,60.64,1273.44,Credit Card,Monthly,No Internet,4,No
+CUST0940,Female,78,13,49.71,646.23,Bank Transfer,Monthly,Fiber Optic,7,No
+CUST0941,Female,60,22,64.52,1419.44,PayPal,One-Year,DSL,0,No
+CUST0942,Male,57,19,92.69,1761.11,PayPal,One-Year,DSL,0,No
+CUST0943,Female,59,34,42.6,1448.4,Credit Card,Monthly,DSL,6,No
+CUST0944,Male,42,14,75.31,1054.34,PayPal,Two-Year,DSL,4,No
+CUST0945,Male,56,4,90.5,362.0,PayPal,Two-Year,Fiber Optic,4,No
+CUST0946,Male,52,48,51.04,2449.92,PayPal,Two-Year,No Internet,0,No
+CUST0947,Male,20,53,49.91,2645.23,Credit Card,Two-Year,Fiber Optic,8,No
+CUST0948,Female,67,52,64.19,3337.88,Credit Card,Two-Year,DSL,0,No
+CUST0949,Female,54,46,63.23,2908.58,PayPal,Two-Year,Fiber Optic,4,No
+CUST0950,Male,61,27,82.59,2229.93,Bank Transfer,Two-Year,DSL,9,Yes
+CUST0951,Male,61,29,52.88,1533.52,PayPal,Two-Year,No Internet,8,No
+CUST0952,Female,68,47,99.65,4683.55,Credit Card,Monthly,No Internet,3,No
+CUST0953,Male,47,28,15.35,429.8,Credit Card,Two-Year,No Internet,7,Yes
+CUST0954,Female,55,35,10.29,360.15,Credit Card,Two-Year,DSL,5,Yes
+CUST0955,Male,51,8,67.62,540.96,PayPal,Two-Year,Fiber Optic,2,No
+CUST0956,Male,29,16,36.86,589.76,Bank Transfer,One-Year,No Internet,3,Yes
+CUST0957,Female,36,42,31.63,1328.46,Credit Card,Monthly,DSL,1,No
+CUST0958,Male,54,36,38.07,1370.52,Credit Card,Monthly,DSL,0,No
+CUST0959,Female,61,30,33.04,991.2,PayPal,Monthly,Fiber Optic,7,No
+CUST0960,Male,76,18,12.77,229.86,Bank Transfer,Two-Year,No Internet,0,No
+CUST0961,Male,76,2,97.44,194.88,PayPal,Two-Year,DSL,0,No
+CUST0962,Male,66,49,29.87,1463.63,Credit Card,One-Year,Fiber Optic,3,No
+CUST0963,Female,78,13,76.06,988.78,Bank Transfer,Monthly,No Internet,9,Yes
+CUST0964,Male,34,4,78.63,314.52,Bank Transfer,Two-Year,Fiber Optic,9,No
+CUST0965,Male,27,26,93.63,2434.38,Credit Card,Monthly,Fiber Optic,5,No
+CUST0966,Male,74,25,12.75,318.75,Bank Transfer,One-Year,DSL,8,No
+CUST0967,Male,72,30,88.48,2654.4,Bank Transfer,One-Year,DSL,0,Yes
+CUST0968,Female,66,11,57.45,631.95,PayPal,One-Year,DSL,6,No
+CUST0969,Female,64,7,66.93,468.51,Credit Card,Monthly,Fiber Optic,9,Yes
+CUST0970,Male,29,31,68.0,2108.0,Credit Card,Two-Year,DSL,4,No
+CUST0971,Female,79,44,83.78,3686.32,Credit Card,Two-Year,Fiber Optic,7,Yes
+CUST0972,Male,33,10,40.01,400.1,Credit Card,One-Year,Fiber Optic,6,No
+CUST0973,Male,41,39,75.97,2962.83,Credit Card,Two-Year,DSL,3,No
+CUST0974,Male,36,13,57.57,748.41,Bank Transfer,One-Year,No Internet,3,Yes
+CUST0975,Female,25,31,81.41,2523.71,PayPal,Monthly,No Internet,5,No
+CUST0976,Female,48,7,99.15,694.05,Credit Card,One-Year,No Internet,5,No
+CUST0977,Female,38,56,28.06,1571.36,PayPal,Monthly,Fiber Optic,8,No
+CUST0978,Female,34,49,99.52,4876.48,PayPal,One-Year,Fiber Optic,4,No
+CUST0979,Female,40,42,18.08,759.36,Bank Transfer,Two-Year,Fiber Optic,7,No
+CUST0980,Female,54,42,10.21,428.82,Credit Card,Two-Year,DSL,4,No
+CUST0981,Female,71,56,13.97,782.32,Bank Transfer,One-Year,Fiber Optic,1,No
+CUST0982,Female,33,36,40.76,1467.36,Credit Card,Two-Year,DSL,5,No
+CUST0983,Female,23,20,66.96,1339.2,Bank Transfer,Two-Year,DSL,8,Yes
+CUST0984,Male,25,4,16.21,64.84,PayPal,Two-Year,No Internet,2,No
+CUST0985,Female,42,54,10.51,567.54,Credit Card,Monthly,No Internet,0,No
+CUST0986,Female,35,7,94.34,660.38,PayPal,Two-Year,No Internet,0,Yes
+CUST0987,Female,42,54,83.97,4534.38,PayPal,Monthly,DSL,2,No
+CUST0988,Female,29,1,82.83,82.83,Bank Transfer,One-Year,DSL,9,No
+CUST0989,Female,32,44,89.6,3942.4,Credit Card,Two-Year,DSL,4,No
+CUST0990,Female,76,56,73.0,4088.0,PayPal,Two-Year,Fiber Optic,2,Yes
+CUST0991,Female,43,45,19.4,873.0,Bank Transfer,Two-Year,DSL,8,No
+CUST0992,Female,58,42,45.92,1928.64,Credit Card,One-Year,No Internet,7,No
+CUST0993,Female,62,47,75.08,3528.76,Credit Card,Monthly,No Internet,2,No
+CUST0994,Female,43,59,35.23,2078.57,PayPal,Monthly,DSL,8,No
+CUST0995,Female,64,13,71.87,934.31,Credit Card,Two-Year,DSL,5,No
+CUST0996,Male,49,55,12.2,671.0,PayPal,One-Year,No Internet,6,No
+CUST0997,Male,27,22,37.55,826.1,Credit Card,One-Year,DSL,3,Yes
+CUST0998,Female,33,54,59.42,3208.68,Bank Transfer,One-Year,No Internet,3,No
+CUST0999,Female,24,21,66.89,1404.69,PayPal,One-Year,Fiber Optic,1,No
+CUST1000,Male,34,22,61.93,1362.46,PayPal,One-Year,No Internet,4,Yes
